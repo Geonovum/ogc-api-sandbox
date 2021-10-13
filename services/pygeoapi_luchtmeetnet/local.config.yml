@@ -33,7 +33,7 @@ metadata:
             - api
         keywords_type: theme
         terms_of_service: https://creativecommons.org/licenses/by/4.0/
-        # url: https://www.nationaalgeoregister.nl/geonetwork/srv/metadata/45eaae76-874a-4fe1-88f4-820517e3de73
+        url: https://api-docs.luchtmeetnet.nl/
     license:
         name: CC-BY 4.0 license
         url: http://creativecommons.org/licenses/by/4.0/
