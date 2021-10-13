@@ -1,36 +1,34 @@
-version: '3.3'
+version: "3.3"
 
-# See env.sh and ../env.sh for env vars
 services:
 
-  qgis:
-    
+  goaf:
     image: ${DOCKER_IMAGE}
-
+ 
     container_name: ${SERVICE_NAME}
 
     expose:
-      - "80"
+      - "8080"
 
 #    ports:
-#     - "5000:80"
-
-    environment:
-      - QGIS_SERVER_LOG_LEVEL:0
-      #- PGSERVICEFILE:If you want to change the default of /etc/qgisserver/pg_service.conf
-      - QGIS_PROJECT_FILE:/etc/qgisserver/project.qgs
-      #- QGIS_SERVER_IGNORE_BAD_LAYERS:true
-      #- MAX_REQUESTS_PER_PROCESS:The number of requests a QGIS server will serve before being restarted by apache
-      #- QGIS_CATCH_SEGV:1
-
+#      - "7080:7080"
+    
     volumes:
-      # Map data and config into  container
-      - ./data:/etc/qgisserver
+      - ./data:/data
+    
+    environment:
+      - PATH_GPKG=/data/data.gpkg
+      - PROVIDER=gpkg
+      - ENDPOINT=${SERVICE_PATH}
 
     labels:
       # Enable Traefik routing on overlay service network
       - "traefik.enable=true"
       - "traefik.docker.network=service-network"
+
+      # This will replace any ${SERVICE_PATH}/* with /rest/services/* when calling the goaf container
+#      - "traefik.http.middlewares.goaf-replace-restservices-path.replacepathregex.regex=${SERVICE_PATH}(.*)"
+#      - "traefik.http.middlewares.goaf-replace-restservices-path.replacepathregex.replacement=/rest/services$$1"
 
       # SSL/https router
       - "traefik.http.routers.${SERVICE_NAME}_https.rule=Host(`${TRAEFIK_SSL_DOMAIN}`) && PathPrefix(`${SERVICE_PATH}`)"
@@ -40,7 +38,7 @@ services:
       - "traefik.http.routers.${SERVICE_NAME}_https.tls.options=my_default@file"
       - "traefik.http.routers.${SERVICE_NAME}_https.middlewares=secure-headers@file"
 
-      # local http router
+      # local http router - REST services
       - "traefik.http.routers.${SERVICE_NAME}_http.rule=Host(`localhost`) && PathPrefix(`${SERVICE_PATH}`)"
       - "traefik.http.routers.${SERVICE_NAME}_http.entrypoints=http"
 

@@ -37,6 +37,10 @@
     - name: "pygeoapi"
       shell: "cd {{ services_home }}/pygeoapi && ./deploy.sh && docker ps"
       tags: pygeoapi
+      
+    - name: "pygeoapi_SU"
+      shell: "cd {{ services_home }}/pygeoapi_SU && ./deploy.sh && docker ps"
+      tags: pygeoapi_SU      
 
     - name: "pycsw"
       shell: "cd {{ services_home }}/pycsw && ./deploy.sh && docker ps"
@@ -53,6 +57,10 @@
     - name: "qgis"
       shell: "cd {{ services_home }}/qgis && ./deploy.sh && docker ps"
       tags: qgis
+
+    - name: "goaf"
+      shell: "cd {{ services_home }}/goaf && ./deploy.sh && docker ps"
+      tags: goaf
 
     - name: "postgis"
       shell: "cd {{ services_home }}/postgis && ./deploy.sh && docker ps"
