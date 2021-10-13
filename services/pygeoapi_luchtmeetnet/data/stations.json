@@ -1,0 +1,4429 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    5.897657, 
+                    51.962296
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "2016", 
+                "description": {
+                    "EN": "Arnhem GelreDome", 
+                    "NL": "Arnhem GelreDome"
+                }, 
+                "url": "", 
+                "organisation": "ODRA (Regio Arnhem)", 
+                "municipality": "Arnhem", 
+                "number": "NL54010", 
+                "locationname": "Arnhem GelreDome", 
+                "location": "Arnhem GelreDome", 
+                "components": [
+                    {
+                        "formula": "PM10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL54010/measurements?formula=PM10"
+                    }
+                ], 
+                "type": "Other"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    5.969485, 
+                    51.978328
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "2010", 
+                "description": {
+                    "EN": "Arnhem Velperbroek", 
+                    "NL": "Arnhem Velperbroek"
+                }, 
+                "url": "", 
+                "organisation": "ODRA (Regio Arnhem)", 
+                "municipality": "Arnhem", 
+                "number": "NL54004", 
+                "locationname": "Arnhem Velperbroek", 
+                "location": "Arnhem Velperbroek", 
+                "components": [
+                    {
+                        "formula": "FN", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL54004/measurements?formula=FN"
+                    }, 
+                    {
+                        "formula": "NO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL54004/measurements?formula=NO"
+                    }, 
+                    {
+                        "formula": "NO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL54004/measurements?formula=NO2"
+                    }, 
+                    {
+                        "formula": "PM10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL54004/measurements?formula=PM10"
+                    }
+                ], 
+                "type": "Regional"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.583248, 
+                    51.713396
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "2016", 
+                "description": {
+                    "EN": "Strijensas Buitendijk", 
+                    "NL": "Strijensas Buitendijk"
+                }, 
+                "url": "", 
+                "organisation": "OMWB (Midden en West Brabant)", 
+                "municipality": "Moerdijk", 
+                "number": "NL53020", 
+                "locationname": "Strijensas Buitendijk", 
+                "location": "Strijensas Buitendijk", 
+                "components": [
+                    {
+                        "formula": "C6H6", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL53020/measurements?formula=C6H6"
+                    }, 
+                    {
+                        "formula": "C7H8", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL53020/measurements?formula=C7H8"
+                    }, 
+                    {
+                        "formula": "C8H10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL53020/measurements?formula=C8H10"
+                    }, 
+                    {
+                        "formula": "NO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL53020/measurements?formula=NO"
+                    }, 
+                    {
+                        "formula": "NO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL53020/measurements?formula=NO2"
+                    }, 
+                    {
+                        "formula": "PM10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL53020/measurements?formula=PM10"
+                    }
+                ], 
+                "type": "Other"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.594882, 
+                    51.653205
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "", 
+                "description": {
+                    "EN": "Zevenbergen-Galgenweg", 
+                    "NL": "Zevenbergen-Galgenweg"
+                }, 
+                "url": "", 
+                "organisation": "OMWB (Midden en West Brabant)", 
+                "municipality": "Moerdijk", 
+                "number": "NL53016", 
+                "locationname": "Zevenbergen-Galgenweg", 
+                "location": "Zevenbergen-Galgenweg", 
+                "components": [
+                    {
+                        "formula": "C6H6", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL53016/measurements?formula=C6H6"
+                    }, 
+                    {
+                        "formula": "C7H8", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL53016/measurements?formula=C7H8"
+                    }, 
+                    {
+                        "formula": "C8H10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL53016/measurements?formula=C8H10"
+                    }, 
+                    {
+                        "formula": "NO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL53016/measurements?formula=NO"
+                    }, 
+                    {
+                        "formula": "NO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL53016/measurements?formula=NO2"
+                    }, 
+                    {
+                        "formula": "PM10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL53016/measurements?formula=PM10"
+                    }
+                ], 
+                "type": "Other"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.541659, 
+                    51.6689355
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "", 
+                "description": {
+                    "EN": "Klundert-Kerkweg", 
+                    "NL": "Klundert-Kerkweg"
+                }, 
+                "url": "", 
+                "organisation": "OMWB (Midden en West Brabant)", 
+                "municipality": "Moerdijk", 
+                "number": "NL53015", 
+                "locationname": "Klundert-Kerkweg", 
+                "location": "Klundert-Kerkweg", 
+                "components": [
+                    {
+                        "formula": "C6H6", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL53015/measurements?formula=C6H6"
+                    }, 
+                    {
+                        "formula": "C7H8", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL53015/measurements?formula=C7H8"
+                    }, 
+                    {
+                        "formula": "C8H10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL53015/measurements?formula=C8H10"
+                    }, 
+                    {
+                        "formula": "NO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL53015/measurements?formula=NO"
+                    }, 
+                    {
+                        "formula": "NO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL53015/measurements?formula=NO2"
+                    }, 
+                    {
+                        "formula": "PM10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL53015/measurements?formula=PM10"
+                    }
+                ], 
+                "type": "Other"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.623713, 
+                    51.699409
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "", 
+                "description": {
+                    "EN": "Moerdijk-Julianastraat", 
+                    "NL": "Moerdijk-Julianastraat"
+                }, 
+                "url": "", 
+                "organisation": "OMWB (Midden en West Brabant)", 
+                "municipality": "Moerdijk", 
+                "number": "NL53004", 
+                "locationname": "Moerdijk-Julianastraat", 
+                "location": "Moerdijk-Julianastraat", 
+                "components": [
+                    {
+                        "formula": "C6H6", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL53004/measurements?formula=C6H6"
+                    }, 
+                    {
+                        "formula": "C7H8", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL53004/measurements?formula=C7H8"
+                    }, 
+                    {
+                        "formula": "C8H10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL53004/measurements?formula=C8H10"
+                    }, 
+                    {
+                        "formula": "FN", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL53004/measurements?formula=FN"
+                    }, 
+                    {
+                        "formula": "NO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL53004/measurements?formula=NO"
+                    }, 
+                    {
+                        "formula": "NO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL53004/measurements?formula=NO2"
+                    }, 
+                    {
+                        "formula": "PM10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL53004/measurements?formula=PM10"
+                    }, 
+                    {
+                        "formula": "PM25", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL53004/measurements?formula=PM25"
+                    }
+                ], 
+                "type": "Other"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.3202367, 
+                    51.393289
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "", 
+                "description": {
+                    "EN": "Ossendrecht-Burgemeester Voetenstraat", 
+                    "NL": "Ossendrecht-Burgemeester Voetenstraat"
+                }, 
+                "url": "", 
+                "organisation": "OMWB (Midden en West Brabant)", 
+                "municipality": "Woensdrecht", 
+                "number": "NL53001", 
+                "locationname": "Ossendrecht-Burgemeester Voetenstraat", 
+                "location": "Ossendrecht-Burgemeester Voetenstraat", 
+                "components": [
+                    {
+                        "formula": "C6H6", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL53001/measurements?formula=C6H6"
+                    }, 
+                    {
+                        "formula": "C7H8", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL53001/measurements?formula=C7H8"
+                    }, 
+                    {
+                        "formula": "C8H10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL53001/measurements?formula=C8H10"
+                    }, 
+                    {
+                        "formula": "NO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL53001/measurements?formula=NO"
+                    }, 
+                    {
+                        "formula": "NO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL53001/measurements?formula=NO2"
+                    }, 
+                    {
+                        "formula": "PM10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL53001/measurements?formula=PM10"
+                    }, 
+                    {
+                        "formula": "PM25", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL53001/measurements?formula=PM25"
+                    }
+                ], 
+                "type": "Other"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    5.718977489396707, 
+                    50.841053234998604
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "2020", 
+                "description": {
+                    "EN": "Maastricht-A2-Philipsweg", 
+                    "NL": "Maastricht-A2-Philipsweg"
+                }, 
+                "url": "", 
+                "organisation": "RUDZL (Limburg)", 
+                "municipality": "Maastricht", 
+                "number": "NL50010", 
+                "locationname": "Maastricht-A2-Philipsweg", 
+                "location": "Maastricht-A2-Philipsweg", 
+                "components": [
+                    {
+                        "formula": "FN", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL50010/measurements?formula=FN"
+                    }, 
+                    {
+                        "formula": "NO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL50010/measurements?formula=NO"
+                    }, 
+                    {
+                        "formula": "NO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL50010/measurements?formula=NO2"
+                    }, 
+                    {
+                        "formula": "O3", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL50010/measurements?formula=O3"
+                    }, 
+                    {
+                        "formula": "PM10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL50010/measurements?formula=PM10"
+                    }, 
+                    {
+                        "formula": "PM25", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL50010/measurements?formula=PM25"
+                    }
+                ], 
+                "type": "Traffic"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    5.71382, 
+                    50.85982
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "", 
+                "description": {
+                    "EN": "Maastricht-A2-Kasteel_Hillenraadweg", 
+                    "NL": "Maastricht-A2-Kasteel_Hillenraadweg"
+                }, 
+                "url": "", 
+                "organisation": "RUDZL (Limburg)", 
+                "municipality": "Maastricht", 
+                "number": "NL50009", 
+                "locationname": "Maastricht-A2-Kasteel_Hillenraadweg", 
+                "location": "Maastricht-A2-Kasteel_Hillenraadweg", 
+                "components": [
+                    {
+                        "formula": "PM25", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL50009/measurements?formula=PM25"
+                    }, 
+                    {
+                        "formula": "FN", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL50009/measurements?formula=FN"
+                    }
+                ], 
+                "type": "Traffic"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    5.6758, 
+                    50.85205
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "2013", 
+                "description": {
+                    "EN": "Maastricht-Hoge_Fronten", 
+                    "NL": "Maastricht-Hoge_Fronten"
+                }, 
+                "url": "", 
+                "organisation": "RUDZL (Limburg)", 
+                "municipality": "Maastricht", 
+                "number": "NL50007", 
+                "locationname": "Maastricht-Hoge_Fronten", 
+                "location": "Maastricht-Hoge_Fronten", 
+                "components": [
+                    {
+                        "formula": "PM25", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL50007/measurements?formula=PM25"
+                    }, 
+                    {
+                        "formula": "FN", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL50007/measurements?formula=FN"
+                    }, 
+                    {
+                        "formula": "O3", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL50007/measurements?formula=O3"
+                    }
+                ], 
+                "type": "Municipal"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.10821, 
+                    51.45412
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "2011", 
+                "description": {
+                    "EN": "Horst_a/d_Maas-Hoogheide ", 
+                    "NL": "Horst_a/d_Maas-Hoogheide "
+                }, 
+                "url": "", 
+                "organisation": "RUDZL (Limburg)", 
+                "municipality": "Horst aan de Maas", 
+                "number": "NL50006", 
+                "locationname": "Horst_a/d_Maas-Hoogheide ", 
+                "location": "Horst_a/d_Maas-Hoogheide ", 
+                "components": [
+                    {
+                        "formula": "PM25", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL50006/measurements?formula=PM25"
+                    }, 
+                    {
+                        "formula": "PM10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL50006/measurements?formula=PM10"
+                    }
+                ], 
+                "type": "Regional"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    5.71475, 
+                    50.84594
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "2008", 
+                "description": {
+                    "EN": "Maastricht-A2-Nassaulaan", 
+                    "NL": "Maastricht-A2-Nassaulaan"
+                }, 
+                "url": "", 
+                "organisation": "RUDZL (Limburg)", 
+                "municipality": "Maastricht", 
+                "number": "NL50004", 
+                "locationname": "Maastricht-A2-Nassaulaan", 
+                "location": "Maastricht-A2-Nassaulaan", 
+                "components": [
+                    {
+                        "formula": "FN", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL50004/measurements?formula=FN"
+                    }, 
+                    {
+                        "formula": "NO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL50004/measurements?formula=NO"
+                    }, 
+                    {
+                        "formula": "NO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL50004/measurements?formula=NO2"
+                    }, 
+                    {
+                        "formula": "O3", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL50004/measurements?formula=O3"
+                    }, 
+                    {
+                        "formula": "PM10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL50004/measurements?formula=PM10"
+                    }, 
+                    {
+                        "formula": "PM25", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL50004/measurements?formula=PM25"
+                    }
+                ], 
+                "type": "Municipal"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    5.82224, 
+                    50.98445
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "1986", 
+                "description": {
+                    "EN": "Geleen-Asterstraat", 
+                    "NL": "Geleen-Asterstraat"
+                }, 
+                "url": "", 
+                "organisation": "RUDZL (Limburg)", 
+                "municipality": "Sittard-Geleen", 
+                "number": "NL50003", 
+                "locationname": "Geleen-Asterstraat", 
+                "location": "Geleen-Asterstraat", 
+                "components": [
+                    {
+                        "formula": "NO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL50003/measurements?formula=NO"
+                    }, 
+                    {
+                        "formula": "NO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL50003/measurements?formula=NO2"
+                    }, 
+                    {
+                        "formula": "PM10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL50003/measurements?formula=PM10"
+                    }, 
+                    {
+                        "formula": "PM25", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL50003/measurements?formula=PM25"
+                    }
+                ], 
+                "type": "Industrial"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    5.81071, 
+                    50.96309
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "1986", 
+                "description": {
+                    "EN": "Geleen-Vouershof ", 
+                    "NL": "Geleen-Vouershof "
+                }, 
+                "url": "", 
+                "organisation": "RUDZL (Limburg)", 
+                "municipality": "Sittard-Geleen", 
+                "number": "NL50002", 
+                "locationname": "Geleen-Vouershof ", 
+                "location": "Geleen-Vouershof ", 
+                "components": [
+                    {
+                        "formula": "NO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL50002/measurements?formula=NO"
+                    }, 
+                    {
+                        "formula": "NO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL50002/measurements?formula=NO2"
+                    }, 
+                    {
+                        "formula": "O3", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL50002/measurements?formula=O3"
+                    }
+                ], 
+                "type": "Industrial"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.773, 
+                    52.428
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "2009", 
+                "description": {
+                    "EN": "Zaanstad-Hoogtij", 
+                    "NL": "Zaanstad-Hoogtij"
+                }, 
+                "url": "", 
+                "organisation": "GGD Amsterdam", 
+                "municipality": "Zaanstad", 
+                "number": "NL49704", 
+                "locationname": "Zaanstad-Hoogtij", 
+                "location": "Zaanstad-Hoogtij", 
+                "components": [
+                    {
+                        "formula": "C6H6", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49704/measurements?formula=C6H6"
+                    }, 
+                    {
+                        "formula": "C7H8", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49704/measurements?formula=C7H8"
+                    }, 
+                    {
+                        "formula": "C8H10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49704/measurements?formula=C8H10"
+                    }, 
+                    {
+                        "formula": "NO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49704/measurements?formula=NO"
+                    }, 
+                    {
+                        "formula": "NO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49704/measurements?formula=NO2"
+                    }, 
+                    {
+                        "formula": "PM10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49704/measurements?formula=PM10"
+                    }, 
+                    {
+                        "formula": "PM25", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49704/measurements?formula=PM25"
+                    }, 
+                    {
+                        "formula": "SO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49704/measurements?formula=SO2"
+                    }
+                ], 
+                "type": "Industrial"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.728581, 
+                    52.398437
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "", 
+                "description": {
+                    "EN": "Spaarnwoude-Machineweg", 
+                    "NL": "Spaarnwoude-Machineweg"
+                }, 
+                "url": "", 
+                "organisation": "GGD Amsterdam", 
+                "municipality": "Haarlemmermeer", 
+                "number": "NL49703", 
+                "locationname": "Spaarnwoude-Machineweg", 
+                "location": "Spaarnwoude-Machineweg", 
+                "components": [
+                    {
+                        "formula": "C6H6", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49703/measurements?formula=C6H6"
+                    }, 
+                    {
+                        "formula": "C7H8", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49703/measurements?formula=C7H8"
+                    }, 
+                    {
+                        "formula": "C8H10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49703/measurements?formula=C8H10"
+                    }, 
+                    {
+                        "formula": "NO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49703/measurements?formula=NO"
+                    }, 
+                    {
+                        "formula": "NO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49703/measurements?formula=NO2"
+                    }, 
+                    {
+                        "formula": "PM10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49703/measurements?formula=PM10"
+                    }, 
+                    {
+                        "formula": "PM25", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49703/measurements?formula=PM25"
+                    }
+                ], 
+                "type": "Regional"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.816706, 
+                    52.448011
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "2006", 
+                "description": {
+                    "EN": "Zaandam-Wagenschotpad", 
+                    "NL": "Zaandam-Wagenschotpad"
+                }, 
+                "url": "", 
+                "organisation": "GGD Amsterdam", 
+                "municipality": "Zaanstad", 
+                "number": "NL49701", 
+                "locationname": "Zaandam-Wagenschotpad", 
+                "location": "Zaandam-Wagenschotpad", 
+                "components": [
+                    {
+                        "formula": "FN", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49701/measurements?formula=FN"
+                    }, 
+                    {
+                        "formula": "NO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49701/measurements?formula=NO"
+                    }, 
+                    {
+                        "formula": "NO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49701/measurements?formula=NO2"
+                    }, 
+                    {
+                        "formula": "PM10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49701/measurements?formula=PM10"
+                    }, 
+                    {
+                        "formula": "PM25", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49701/measurements?formula=PM25"
+                    }
+                ], 
+                "type": "Municipal"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.579343, 
+                    52.478871
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "2011", 
+                "description": {
+                    "EN": "Velsen-Reyndersweg", 
+                    "NL": "Velsen-Reyndersweg"
+                }, 
+                "url": "", 
+                "organisation": "GGD Amsterdam", 
+                "municipality": "Velsen", 
+                "number": "NL49573", 
+                "locationname": "Velsen-Reyndersweg", 
+                "location": "Velsen-Reyndersweg", 
+                "components": [
+                    {
+                        "formula": "PM25", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49573/measurements?formula=PM25"
+                    }, 
+                    {
+                        "formula": "PM10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49573/measurements?formula=PM10"
+                    }
+                ], 
+                "type": "Industrial"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.6288, 
+                    52.4744
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "2011", 
+                "description": {
+                    "EN": "Velsen-Staalstraat", 
+                    "NL": "Velsen-Staalstraat"
+                }, 
+                "url": "", 
+                "organisation": "GGD Amsterdam", 
+                "municipality": "Velsen", 
+                "number": "NL49572", 
+                "locationname": "Velsen-Staalstraat", 
+                "location": "Velsen-Staalstraat", 
+                "components": [
+                    {
+                        "formula": "PM25", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49572/measurements?formula=PM25"
+                    }, 
+                    {
+                        "formula": "PM10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49572/measurements?formula=PM10"
+                    }
+                ], 
+                "type": "Industrial"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.640531, 
+                    52.489303
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "2007", 
+                "description": {
+                    "EN": "Beverwijk-Creutzberglaan", 
+                    "NL": "Beverwijk-Creutzberglaan"
+                }, 
+                "url": "", 
+                "organisation": "GGD Amsterdam", 
+                "municipality": "Velsen", 
+                "number": "NL49570", 
+                "locationname": "Beverwijk-Creutzberglaan", 
+                "location": "Beverwijk-Creutzberglaan", 
+                "components": [
+                    {
+                        "formula": "PM25", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49570/measurements?formula=PM25"
+                    }, 
+                    {
+                        "formula": "PM10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49570/measurements?formula=PM10"
+                    }
+                ], 
+                "type": "Other"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.77082, 
+                    52.28013
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "2010", 
+                "description": {
+                    "EN": "Oude Meer-Aalsmeerderdijk", 
+                    "NL": "Oude Meer-Aalsmeerderdijk"
+                }, 
+                "url": "", 
+                "organisation": "GGD Amsterdam", 
+                "municipality": "Haarlemmermeer", 
+                "number": "NL49565", 
+                "locationname": "Oude Meer-Aalsmeerderdijk", 
+                "location": "Oude Meer-Aalsmeerderdijk", 
+                "components": [
+                    {
+                        "formula": "NO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49565/measurements?formula=NO"
+                    }, 
+                    {
+                        "formula": "NO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49565/measurements?formula=NO2"
+                    }, 
+                    {
+                        "formula": "PM10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49565/measurements?formula=PM10"
+                    }
+                ], 
+                "type": "Regional"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.71507132053375, 
+                    52.3274501787129
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "1998", 
+                "description": {
+                    "EN": "Hoofddorp-Hoofdweg", 
+                    "NL": "Hoofddorp-Hoofdweg"
+                }, 
+                "url": "", 
+                "organisation": "GGD Amsterdam", 
+                "municipality": "Haarlemmermeer", 
+                "number": "NL49564", 
+                "locationname": "Hoofddorp-Hoofdweg", 
+                "location": "Hoofddorp-Hoofdweg", 
+                "components": [
+                    {
+                        "formula": "NO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49564/measurements?formula=NO"
+                    }, 
+                    {
+                        "formula": "NO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49564/measurements?formula=NO2"
+                    }, 
+                    {
+                        "formula": "PM10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49564/measurements?formula=PM10"
+                    }
+                ], 
+                "type": "Other"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.774006, 
+                    52.334003
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "1998", 
+                "description": {
+                    "EN": "Badhoevedorp-Sloterweg", 
+                    "NL": "Badhoevedorp-Sloterweg"
+                }, 
+                "url": "", 
+                "organisation": "GGD Amsterdam", 
+                "municipality": "Haarlemmermeer", 
+                "number": "NL49561", 
+                "locationname": "Badhoevedorp-Sloterweg", 
+                "location": "Badhoevedorp-Sloterweg", 
+                "components": [
+                    {
+                        "formula": "CO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49561/measurements?formula=CO"
+                    }, 
+                    {
+                        "formula": "NO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49561/measurements?formula=NO"
+                    }, 
+                    {
+                        "formula": "NO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49561/measurements?formula=NO2"
+                    }, 
+                    {
+                        "formula": "PM10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49561/measurements?formula=PM10"
+                    }, 
+                    {
+                        "formula": "PM25", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49561/measurements?formula=PM25"
+                    }
+                ], 
+                "type": "Other"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.599313, 
+                    52.490052
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "2020", 
+                "description": {
+                    "EN": "Wijk aan Zee-Bosweg", 
+                    "NL": "Wijk aan Zee-Bosweg"
+                }, 
+                "url": null, 
+                "organisation": "GGD Amsterdam", 
+                "municipality": "Beverwijk", 
+                "number": "NL49557", 
+                "locationname": "Wijk aan Zee-Bosweg", 
+                "location": "Wijk aan Zee-Bosweg", 
+                "components": [
+                    {
+                        "formula": "PM25", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49557/measurements?formula=PM25"
+                    }, 
+                    {
+                        "formula": "PM10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49557/measurements?formula=PM10"
+                    }
+                ], 
+                "type": "Industrial"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8617, 
+                    52.56359
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "", 
+                "description": {
+                    "EN": "De Rijp-Oostdijkje", 
+                    "NL": "De Rijp-Oostdijkje"
+                }, 
+                "url": "", 
+                "organisation": "GGD Amsterdam", 
+                "municipality": "Alkmaar", 
+                "number": "NL49556", 
+                "locationname": "De Rijp-Oostdijkje", 
+                "location": "De Rijp-Oostdijkje", 
+                "components": [
+                    {
+                        "formula": "PM25", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49556/measurements?formula=PM25"
+                    }, 
+                    {
+                        "formula": "PM10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49556/measurements?formula=PM10"
+                    }
+                ], 
+                "type": "Regional"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.601986, 
+                    52.493992
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "1998", 
+                "description": {
+                    "EN": "Wijk aan Zee-De Banjaert", 
+                    "NL": "Wijk aan Zee-De Banjaert"
+                }, 
+                "url": "", 
+                "organisation": "GGD Amsterdam", 
+                "municipality": "Velsen", 
+                "number": "NL49553", 
+                "locationname": "Wijk aan Zee-De Banjaert", 
+                "location": "Wijk aan Zee-De Banjaert", 
+                "components": [
+                    {
+                        "formula": "CO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49553/measurements?formula=CO"
+                    }, 
+                    {
+                        "formula": "FN", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49553/measurements?formula=FN"
+                    }, 
+                    {
+                        "formula": "H2S", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49553/measurements?formula=H2S"
+                    }, 
+                    {
+                        "formula": "NO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49553/measurements?formula=NO"
+                    }, 
+                    {
+                        "formula": "NO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49553/measurements?formula=NO2"
+                    }, 
+                    {
+                        "formula": "PM10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49553/measurements?formula=PM10"
+                    }, 
+                    {
+                        "formula": "PM25", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49553/measurements?formula=PM25"
+                    }, 
+                    {
+                        "formula": "SO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49553/measurements?formula=SO2"
+                    }
+                ], 
+                "type": "Industrial"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.6018419999999995, 
+                    52.463039
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "1998", 
+                "description": {
+                    "EN": "IJmuiden-Kanaalstraat", 
+                    "NL": "IJmuiden-Kanaalstraat"
+                }, 
+                "url": "", 
+                "organisation": "GGD Amsterdam", 
+                "municipality": "Velsen", 
+                "number": "NL49551", 
+                "locationname": "IJmuiden-Kanaalstraat", 
+                "location": "IJmuiden-Kanaalstraat", 
+                "components": [
+                    {
+                        "formula": "CO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49551/measurements?formula=CO"
+                    }, 
+                    {
+                        "formula": "FN", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49551/measurements?formula=FN"
+                    }, 
+                    {
+                        "formula": "H2S", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49551/measurements?formula=H2S"
+                    }, 
+                    {
+                        "formula": "NO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49551/measurements?formula=NO"
+                    }, 
+                    {
+                        "formula": "NO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49551/measurements?formula=NO2"
+                    }, 
+                    {
+                        "formula": "PM10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49551/measurements?formula=PM10"
+                    }, 
+                    {
+                        "formula": "PM25", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49551/measurements?formula=PM25"
+                    }, 
+                    {
+                        "formula": "SO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49551/measurements?formula=SO2"
+                    }
+                ], 
+                "type": "Industrial"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.83206, 
+                    52.42023
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "2009", 
+                "description": {
+                    "EN": "Zaanstad-Hemkade", 
+                    "NL": "Zaanstad-Hemkade"
+                }, 
+                "url": "", 
+                "organisation": "GGD Amsterdam", 
+                "municipality": "Zaanstad", 
+                "number": "NL49546", 
+                "locationname": "Zaanstad-Hemkade", 
+                "location": "Zaanstad-Hemkade", 
+                "components": [
+                    {
+                        "formula": "C6H6", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49546/measurements?formula=C6H6"
+                    }, 
+                    {
+                        "formula": "C7H8", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49546/measurements?formula=C7H8"
+                    }, 
+                    {
+                        "formula": "C8H10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49546/measurements?formula=C8H10"
+                    }, 
+                    {
+                        "formula": "NO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49546/measurements?formula=NO"
+                    }, 
+                    {
+                        "formula": "NO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49546/measurements?formula=NO2"
+                    }, 
+                    {
+                        "formula": "PM10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49546/measurements?formula=PM10"
+                    }
+                ], 
+                "type": "Industrial"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.793344, 
+                    52.366811
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "2007", 
+                "description": {
+                    "EN": "Amsterdam-Ookmeer", 
+                    "NL": "Amsterdam-Ookmeer"
+                }, 
+                "url": "", 
+                "organisation": "GGD Amsterdam", 
+                "municipality": "Amsterdam", 
+                "number": "NL49022", 
+                "locationname": "Amsterdam-Ookmeer", 
+                "location": "Amsterdam-Ookmeer", 
+                "components": [
+                    {
+                        "formula": "NO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49022/measurements?formula=NO"
+                    }, 
+                    {
+                        "formula": "PS", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49022/measurements?formula=PS"
+                    }, 
+                    {
+                        "formula": "NO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49022/measurements?formula=NO2"
+                    }
+                ], 
+                "type": "Municipal"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.988397, 
+                    52.320692
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "2007", 
+                "description": {
+                    "EN": "Amsterdam -Kantershof", 
+                    "NL": "Amsterdam -Kantershof"
+                }, 
+                "url": "", 
+                "organisation": "GGD Amsterdam", 
+                "municipality": "Amsterdam", 
+                "number": "NL49021", 
+                "locationname": "Amsterdam -Kantershof", 
+                "location": "Amsterdam -Kantershof", 
+                "components": [
+                    {
+                        "formula": "NO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49021/measurements?formula=NO"
+                    }, 
+                    {
+                        "formula": "NO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49021/measurements?formula=NO2"
+                    }
+                ], 
+                "type": "Municipal"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.860319, 
+                    52.374786
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "2007", 
+                "description": {
+                    "EN": "Amsterdam-Jan van Galenstraat", 
+                    "NL": "Amsterdam-Jan van Galenstraat"
+                }, 
+                "url": "", 
+                "organisation": "GGD Amsterdam", 
+                "municipality": "Amsterdam", 
+                "number": "NL49020", 
+                "locationname": "Amsterdam-Jan van Galenstraat", 
+                "location": "Amsterdam-Jan van Galenstraat", 
+                "components": [
+                    {
+                        "formula": "FN", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49020/measurements?formula=FN"
+                    }, 
+                    {
+                        "formula": "NO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49020/measurements?formula=NO"
+                    }, 
+                    {
+                        "formula": "NO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49020/measurements?formula=NO2"
+                    }, 
+                    {
+                        "formula": "PM10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49020/measurements?formula=PM10"
+                    }
+                ], 
+                "type": "Traffic"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.9044, 
+                    52.372056
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "2007", 
+                "description": {
+                    "EN": "Amsterdam-Oude Schans", 
+                    "NL": "Amsterdam-Oude Schans"
+                }, 
+                "url": "", 
+                "organisation": "GGD Amsterdam", 
+                "municipality": "Amsterdam", 
+                "number": "NL49019", 
+                "locationname": "Amsterdam-Oude Schans", 
+                "location": "Amsterdam-Oude Schans", 
+                "components": [
+                    {
+                        "formula": "NO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49019/measurements?formula=NO"
+                    }, 
+                    {
+                        "formula": "NO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49019/measurements?formula=NO2"
+                    }
+                ], 
+                "type": "Municipal"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8997, 
+                    52.358039
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "", 
+                "description": {
+                    "EN": "Amsterdam-Stadhouderskade", 
+                    "NL": "Amsterdam-Stadhouderskade"
+                }, 
+                "url": "", 
+                "organisation": "GGD Amsterdam", 
+                "municipality": "Amsterdam", 
+                "number": "NL49017", 
+                "locationname": "Amsterdam-Stadhouderskade", 
+                "location": "Amsterdam-Stadhouderskade", 
+                "components": [
+                    {
+                        "formula": "C6H6", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49017/measurements?formula=C6H6"
+                    }, 
+                    {
+                        "formula": "C7H8", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49017/measurements?formula=C7H8"
+                    }, 
+                    {
+                        "formula": "C8H10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49017/measurements?formula=C8H10"
+                    }, 
+                    {
+                        "formula": "FN", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49017/measurements?formula=FN"
+                    }, 
+                    {
+                        "formula": "NO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49017/measurements?formula=NO"
+                    }, 
+                    {
+                        "formula": "NO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49017/measurements?formula=NO2"
+                    }, 
+                    {
+                        "formula": "PM10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49017/measurements?formula=PM10"
+                    }, 
+                    {
+                        "formula": "PM25", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49017/measurements?formula=PM25"
+                    }
+                ], 
+                "type": "Traffic"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.870157, 
+                    52.393972
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "1998", 
+                "description": {
+                    "EN": "Amsterdam-Westerpark", 
+                    "NL": "Amsterdam-Westerpark"
+                }, 
+                "url": "", 
+                "organisation": "GGD Amsterdam", 
+                "municipality": "Amsterdam", 
+                "number": "NL49016", 
+                "locationname": "Amsterdam-Westerpark", 
+                "location": "Amsterdam-Westerpark", 
+                "components": [
+                    {
+                        "formula": "PM25", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49016/measurements?formula=PM25"
+                    }, 
+                    {
+                        "formula": "SO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49016/measurements?formula=SO2"
+                    }, 
+                    {
+                        "formula": "PM10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49016/measurements?formula=PM10"
+                    }
+                ], 
+                "type": "Municipal"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.866208, 
+                    52.359714
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "1998", 
+                "description": {
+                    "EN": "Amsterdam-Vondelpark", 
+                    "NL": "Amsterdam-Vondelpark"
+                }, 
+                "url": "", 
+                "organisation": "GGD Amsterdam", 
+                "municipality": "Amsterdam", 
+                "number": "NL49014", 
+                "locationname": "Amsterdam-Vondelpark", 
+                "location": "Amsterdam-Vondelpark", 
+                "components": [
+                    {
+                        "formula": "CO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49014/measurements?formula=CO"
+                    }, 
+                    {
+                        "formula": "FN", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49014/measurements?formula=FN"
+                    }, 
+                    {
+                        "formula": "NO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49014/measurements?formula=NO"
+                    }, 
+                    {
+                        "formula": "NO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49014/measurements?formula=NO2"
+                    }, 
+                    {
+                        "formula": "O3", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49014/measurements?formula=O3"
+                    }, 
+                    {
+                        "formula": "PM10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49014/measurements?formula=PM10"
+                    }, 
+                    {
+                        "formula": "PM25", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49014/measurements?formula=PM25"
+                    }
+                ], 
+                "type": "Municipal"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.887811, 
+                    52.389983
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "1998", 
+                "description": {
+                    "EN": "Amsterdam-Van Diemenstraat", 
+                    "NL": "Amsterdam-Van Diemenstraat"
+                }, 
+                "url": "", 
+                "organisation": "GGD Amsterdam", 
+                "municipality": "Amsterdam", 
+                "number": "NL49012", 
+                "locationname": "Amsterdam-Van Diemenstraat", 
+                "location": "Amsterdam-Van Diemenstraat", 
+                "components": [
+                    {
+                        "formula": "CO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49012/measurements?formula=CO"
+                    }, 
+                    {
+                        "formula": "FN", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49012/measurements?formula=FN"
+                    }, 
+                    {
+                        "formula": "NO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49012/measurements?formula=NO"
+                    }, 
+                    {
+                        "formula": "NO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49012/measurements?formula=NO2"
+                    }, 
+                    {
+                        "formula": "O3", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49012/measurements?formula=O3"
+                    }, 
+                    {
+                        "formula": "PM10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49012/measurements?formula=PM10"
+                    }, 
+                    {
+                        "formula": "PM25", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49012/measurements?formula=PM25"
+                    }
+                ], 
+                "type": "Traffic"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.845233, 
+                    52.381331
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "1998", 
+                "description": {
+                    "EN": "Amsterdam-Einsteinweg", 
+                    "NL": "Amsterdam-Einsteinweg"
+                }, 
+                "url": "", 
+                "organisation": "GGD Amsterdam", 
+                "municipality": "Amsterdam", 
+                "number": "NL49007", 
+                "locationname": "Amsterdam-Einsteinweg", 
+                "location": "Amsterdam-Einsteinweg", 
+                "components": [
+                    {
+                        "formula": "CO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49007/measurements?formula=CO"
+                    }, 
+                    {
+                        "formula": "FN", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49007/measurements?formula=FN"
+                    }, 
+                    {
+                        "formula": "NO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49007/measurements?formula=NO"
+                    }, 
+                    {
+                        "formula": "NO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49007/measurements?formula=NO2"
+                    }, 
+                    {
+                        "formula": "PM10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49007/measurements?formula=PM10"
+                    }, 
+                    {
+                        "formula": "PM25", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49007/measurements?formula=PM25"
+                    }
+                ], 
+                "type": "Traffic"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.943822, 
+                    52.389314
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "1998", 
+                "description": {
+                    "EN": "Amsterdam-Nieuwendammerdijk", 
+                    "NL": "Amsterdam-Nieuwendammerdijk"
+                }, 
+                "url": "", 
+                "organisation": "GGD Amsterdam", 
+                "municipality": "Amsterdam", 
+                "number": "NL49003", 
+                "locationname": "Amsterdam-Nieuwendammerdijk", 
+                "location": "Amsterdam-Nieuwendammerdijk", 
+                "components": [
+                    {
+                        "formula": "FN", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49003/measurements?formula=FN"
+                    }, 
+                    {
+                        "formula": "NO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49003/measurements?formula=NO"
+                    }, 
+                    {
+                        "formula": "NO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49003/measurements?formula=NO2"
+                    }, 
+                    {
+                        "formula": "O3", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49003/measurements?formula=O3"
+                    }
+                ], 
+                "type": "Municipal"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.87575, 
+                    52.385422
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "1998", 
+                "description": {
+                    "EN": "Amsterdam-Haarlemmerweg", 
+                    "NL": "Amsterdam-Haarlemmerweg"
+                }, 
+                "url": "", 
+                "organisation": "GGD Amsterdam", 
+                "municipality": "Amsterdam", 
+                "number": "NL49002", 
+                "locationname": "Amsterdam-Haarlemmerweg", 
+                "location": "Amsterdam-Haarlemmerweg", 
+                "components": [
+                    {
+                        "formula": "NO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49002/measurements?formula=NO"
+                    }, 
+                    {
+                        "formula": "NO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL49002/measurements?formula=NO2"
+                    }
+                ], 
+                "type": "Traffic"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.608937, 
+                    53.246535
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "", 
+                "description": {
+                    "EN": "Groningen-Nijensteinheerd", 
+                    "NL": "Groningen-Nijensteinheerd"
+                }, 
+                "url": "", 
+                "organisation": "RIVM", 
+                "municipality": "Groningen", 
+                "number": "NL10938", 
+                "locationname": "Groningen-Nijensteinheerd", 
+                "location": "Groningen-Nijensteinheerd", 
+                "components": [
+                    {
+                        "formula": "FN", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10938/measurements?formula=FN"
+                    }, 
+                    {
+                        "formula": "NO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10938/measurements?formula=NO"
+                    }, 
+                    {
+                        "formula": "NO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10938/measurements?formula=NO2"
+                    }, 
+                    {
+                        "formula": "O3", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10938/measurements?formula=O3"
+                    }, 
+                    {
+                        "formula": "PM25", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10938/measurements?formula=PM25"
+                    }
+                ], 
+                "type": "Municipal"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.578901, 
+                    53.217796
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "", 
+                "description": {
+                    "EN": "Groningen-Europaweg", 
+                    "NL": "Groningen-Europaweg"
+                }, 
+                "url": "", 
+                "organisation": "RIVM", 
+                "municipality": "Groningen", 
+                "number": "NL10937", 
+                "locationname": "Groningen-Europaweg", 
+                "location": "Groningen-Europaweg", 
+                "components": [
+                    {
+                        "formula": "NO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10937/measurements?formula=NO"
+                    }, 
+                    {
+                        "formula": "NO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10937/measurements?formula=NO2"
+                    }, 
+                    {
+                        "formula": "PM10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10937/measurements?formula=PM10"
+                    }, 
+                    {
+                        "formula": "PM25", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10937/measurements?formula=PM25"
+                    }
+                ], 
+                "type": "Traffic"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.276815, 
+                    53.330425
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "", 
+                "description": {
+                    "EN": "Kollumerwaard-Hooge Zuidwal", 
+                    "NL": "Kollumerwaard-Hooge Zuidwal"
+                }, 
+                "url": "", 
+                "organisation": "RIVM", 
+                "municipality": "Noardeast-Frysl\u00e2n", 
+                "number": "NL10934", 
+                "locationname": "Kollumerwaard-Hooge Zuidwal", 
+                "location": "Kollumerwaard-Hooge Zuidwal", 
+                "components": [
+                    {
+                        "formula": "NO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10934/measurements?formula=NO"
+                    }, 
+                    {
+                        "formula": "NO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10934/measurements?formula=NO2"
+                    }, 
+                    {
+                        "formula": "O3", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10934/measurements?formula=O3"
+                    }, 
+                    {
+                        "formula": "PM10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10934/measurements?formula=PM10"
+                    }, 
+                    {
+                        "formula": "PM25", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10934/measurements?formula=PM25"
+                    }, 
+                    {
+                        "formula": "SO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10934/measurements?formula=SO2"
+                    }
+                ], 
+                "type": "Regional"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.932432, 
+                    52.875725
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "", 
+                "description": {
+                    "EN": "Valthermond-Noorderdiep", 
+                    "NL": "Valthermond-Noorderdiep"
+                }, 
+                "url": "", 
+                "organisation": "RIVM", 
+                "municipality": "Borger-Odoorn", 
+                "number": "NL10929", 
+                "locationname": "Valthermond-Noorderdiep", 
+                "location": "Valthermond-Noorderdiep", 
+                "components": [
+                    {
+                        "formula": "FN", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10929/measurements?formula=FN"
+                    }, 
+                    {
+                        "formula": "NH3", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10929/measurements?formula=NH3"
+                    }, 
+                    {
+                        "formula": "NO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10929/measurements?formula=NO"
+                    }, 
+                    {
+                        "formula": "NO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10929/measurements?formula=NO2"
+                    }, 
+                    {
+                        "formula": "O3", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10929/measurements?formula=O3"
+                    }, 
+                    {
+                        "formula": "PM10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10929/measurements?formula=PM10"
+                    }
+                ], 
+                "type": "Regional"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    5.573491, 
+                    52.916915
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "", 
+                "description": {
+                    "EN": "Balk-Trophornsterweg", 
+                    "NL": "Balk-Trophornsterweg"
+                }, 
+                "url": "", 
+                "organisation": "RIVM", 
+                "municipality": "De Friese Meren", 
+                "number": "NL10918", 
+                "locationname": "Balk-Trophornsterweg", 
+                "location": "Balk-Trophornsterweg", 
+                "components": [
+                    {
+                        "formula": "NO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10918/measurements?formula=NO"
+                    }, 
+                    {
+                        "formula": "NO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10918/measurements?formula=NO2"
+                    }, 
+                    {
+                        "formula": "O3", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10918/measurements?formula=O3"
+                    }, 
+                    {
+                        "formula": "PM10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10918/measurements?formula=PM10"
+                    }
+                ], 
+                "type": "Regional"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.919494, 
+                    52.234504
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "", 
+                "description": {
+                    "EN": "Enschede-Winkelshorst", 
+                    "NL": "Enschede-Winkelshorst"
+                }, 
+                "url": "", 
+                "organisation": "RIVM", 
+                "municipality": "Enschede", 
+                "number": "NL10821", 
+                "locationname": "Enschede-Winkelshorst", 
+                "location": "Enschede-Winkelshorst", 
+                "components": [
+                    {
+                        "formula": "PM25", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10821/measurements?formula=PM25"
+                    }, 
+                    {
+                        "formula": "FN", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10821/measurements?formula=FN"
+                    }
+                ], 
+                "type": "Municipal"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.017571, 
+                    52.654144
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "", 
+                "description": {
+                    "EN": "Barsbeek-De Veenen", 
+                    "NL": "Barsbeek-De Veenen"
+                }, 
+                "url": "", 
+                "organisation": "RIVM", 
+                "municipality": "Steenwijkerland", 
+                "number": "NL10818", 
+                "locationname": "Barsbeek-De Veenen", 
+                "location": "Barsbeek-De Veenen", 
+                "components": [
+                    {
+                        "formula": "NO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10818/measurements?formula=NO"
+                    }, 
+                    {
+                        "formula": "NO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10818/measurements?formula=NO2"
+                    }, 
+                    {
+                        "formula": "O3", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10818/measurements?formula=O3"
+                    }, 
+                    {
+                        "formula": "PM10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10818/measurements?formula=PM10"
+                    }
+                ], 
+                "type": "Regional"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.402919, 
+                    52.38833
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "", 
+                "description": {
+                    "EN": "Hellendoorn-Luttenbergerweg", 
+                    "NL": "Hellendoorn-Luttenbergerweg"
+                }, 
+                "url": "", 
+                "organisation": "RIVM", 
+                "municipality": "Hellendoorn", 
+                "number": "NL10807", 
+                "locationname": "Hellendoorn-Luttenbergerweg", 
+                "location": "Hellendoorn-Luttenbergerweg", 
+                "components": [
+                    {
+                        "formula": "FN", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10807/measurements?formula=FN"
+                    }, 
+                    {
+                        "formula": "NO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10807/measurements?formula=NO"
+                    }, 
+                    {
+                        "formula": "NO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10807/measurements?formula=NO2"
+                    }, 
+                    {
+                        "formula": "O3", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10807/measurements?formula=O3"
+                    }, 
+                    {
+                        "formula": "PM10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10807/measurements?formula=PM10"
+                    }
+                ], 
+                "type": "Regional"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    5.856938, 
+                    51.838221
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "", 
+                "description": {
+                    "EN": "Nijmegen-Ruyterstraat", 
+                    "NL": "Nijmegen-Ruyterstraat"
+                }, 
+                "url": "", 
+                "organisation": "RIVM", 
+                "municipality": "Nijmegen", 
+                "number": "NL10742", 
+                "locationname": "Nijmegen-Ruyterstraat", 
+                "location": "Nijmegen-Ruyterstraat", 
+                "components": [
+                    {
+                        "formula": "FN", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10742/measurements?formula=FN"
+                    }, 
+                    {
+                        "formula": "NO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10742/measurements?formula=NO"
+                    }, 
+                    {
+                        "formula": "NO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10742/measurements?formula=NO2"
+                    }, 
+                    {
+                        "formula": "O3", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10742/measurements?formula=O3"
+                    }, 
+                    {
+                        "formula": "PM25", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10742/measurements?formula=PM25"
+                    }
+                ], 
+                "type": "Municipal"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    5.857777, 
+                    51.841372
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "", 
+                "description": {
+                    "EN": "Nijmegen-Graafseweg", 
+                    "NL": "Nijmegen-Graafseweg"
+                }, 
+                "url": "", 
+                "organisation": "RIVM", 
+                "municipality": "Nijmegen", 
+                "number": "NL10741", 
+                "locationname": "Nijmegen-Graafseweg", 
+                "location": "Nijmegen-Graafseweg", 
+                "components": [
+                    {
+                        "formula": "CO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10741/measurements?formula=CO"
+                    }, 
+                    {
+                        "formula": "FN", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10741/measurements?formula=FN"
+                    }, 
+                    {
+                        "formula": "NO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10741/measurements?formula=NO"
+                    }, 
+                    {
+                        "formula": "NO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10741/measurements?formula=NO2"
+                    }, 
+                    {
+                        "formula": "PM10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10741/measurements?formula=PM10"
+                    }, 
+                    {
+                        "formula": "PM25", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10741/measurements?formula=PM25"
+                    }
+                ], 
+                "type": "Traffic"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    5.708419, 
+                    52.111621
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "", 
+                "description": {
+                    "EN": "Wekerom-Riemterdijk", 
+                    "NL": "Wekerom-Riemterdijk"
+                }, 
+                "url": "", 
+                "organisation": "RIVM", 
+                "municipality": "Ede", 
+                "number": "NL10738", 
+                "locationname": "Wekerom-Riemterdijk", 
+                "location": "Wekerom-Riemterdijk", 
+                "components": [
+                    {
+                        "formula": "NH3", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10738/measurements?formula=NH3"
+                    }, 
+                    {
+                        "formula": "NO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10738/measurements?formula=NO"
+                    }, 
+                    {
+                        "formula": "NO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10738/measurements?formula=NO2"
+                    }, 
+                    {
+                        "formula": "O3", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10738/measurements?formula=O3"
+                    }, 
+                    {
+                        "formula": "PM10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10738/measurements?formula=PM10"
+                    }, 
+                    {
+                        "formula": "PM25", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10738/measurements?formula=PM25"
+                    }
+                ], 
+                "type": "Regional"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.605367, 
+                    52.091801
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "", 
+                "description": {
+                    "EN": "Eibergen-Lintveldseweg", 
+                    "NL": "Eibergen-Lintveldseweg"
+                }, 
+                "url": "", 
+                "organisation": "RIVM", 
+                "municipality": "Berkelland", 
+                "number": "NL10722", 
+                "locationname": "Eibergen-Lintveldseweg", 
+                "location": "Eibergen-Lintveldseweg", 
+                "components": [
+                    {
+                        "formula": "NO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10722/measurements?formula=NO"
+                    }, 
+                    {
+                        "formula": "NO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10722/measurements?formula=NO2"
+                    }, 
+                    {
+                        "formula": "O3", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10722/measurements?formula=O3"
+                    }, 
+                    {
+                        "formula": "PM10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10722/measurements?formula=PM10"
+                    }, 
+                    {
+                        "formula": "SO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10722/measurements?formula=SO2"
+                    }
+                ], 
+                "type": "Regional"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.923301, 
+                    51.974489
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "", 
+                "description": {
+                    "EN": "Cabauw-Wielsekade", 
+                    "NL": "Cabauw-Wielsekade"
+                }, 
+                "url": "", 
+                "organisation": "RIVM", 
+                "municipality": "Lopik", 
+                "number": "NL10644", 
+                "locationname": "Cabauw-Wielsekade", 
+                "location": "Cabauw-Wielsekade", 
+                "components": [
+                    {
+                        "formula": "NO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10644/measurements?formula=NO"
+                    }, 
+                    {
+                        "formula": "NO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10644/measurements?formula=NO2"
+                    }, 
+                    {
+                        "formula": "O3", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10644/measurements?formula=O3"
+                    }, 
+                    {
+                        "formula": "PM10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10644/measurements?formula=PM10"
+                    }, 
+                    {
+                        "formula": "PM25", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10644/measurements?formula=PM25"
+                    }, 
+                    {
+                        "formula": "SO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10644/measurements?formula=SO2"
+                    }
+                ], 
+                "type": "Municipal"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    5.128183, 
+                    52.101308
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "", 
+                "description": {
+                    "EN": "Utrecht-Griftpark", 
+                    "NL": "Utrecht-Griftpark"
+                }, 
+                "url": "", 
+                "organisation": "RIVM", 
+                "municipality": "Utrecht", 
+                "number": "NL10643", 
+                "locationname": "Utrecht-Griftpark", 
+                "location": "Utrecht-Griftpark", 
+                "components": [
+                    {
+                        "formula": "C6H6", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10643/measurements?formula=C6H6"
+                    }, 
+                    {
+                        "formula": "C7H8", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10643/measurements?formula=C7H8"
+                    }, 
+                    {
+                        "formula": "C8H10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10643/measurements?formula=C8H10"
+                    }, 
+                    {
+                        "formula": "NO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10643/measurements?formula=NO"
+                    }, 
+                    {
+                        "formula": "NO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10643/measurements?formula=NO2"
+                    }, 
+                    {
+                        "formula": "O3", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10643/measurements?formula=O3"
+                    }, 
+                    {
+                        "formula": "PM25", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10643/measurements?formula=PM25"
+                    }
+                ], 
+                "type": "Municipal"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.987444, 
+                    52.20153
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "", 
+                "description": {
+                    "EN": "Breukelen-A2", 
+                    "NL": "Breukelen-A2"
+                }, 
+                "url": "", 
+                "organisation": "RIVM", 
+                "municipality": "Stichtse Vecht", 
+                "number": "NL10641", 
+                "locationname": "Breukelen-A2", 
+                "location": "Breukelen-A2", 
+                "components": [
+                    {
+                        "formula": "FN", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10641/measurements?formula=FN"
+                    }, 
+                    {
+                        "formula": "NO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10641/measurements?formula=NO"
+                    }, 
+                    {
+                        "formula": "NO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10641/measurements?formula=NO2"
+                    }, 
+                    {
+                        "formula": "O3", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10641/measurements?formula=O3"
+                    }, 
+                    {
+                        "formula": "PM10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10641/measurements?formula=PM10"
+                    }, 
+                    {
+                        "formula": "PM25", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10641/measurements?formula=PM25"
+                    }
+                ], 
+                "type": "Traffic"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    5.120507, 
+                    52.067748
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "1987", 
+                "description": {
+                    "EN": "Utrecht-Constant Erzeijstraat", 
+                    "NL": "Utrecht-Constant Erzeijstraat"
+                }, 
+                "url": "", 
+                "organisation": "RIVM", 
+                "municipality": "Utrecht", 
+                "number": "NL10639", 
+                "locationname": "Utrecht-Constant Erzeijstraat", 
+                "location": "Utrecht-Constant Erzeijstraat", 
+                "components": [
+                    {
+                        "formula": "C6H6", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10639/measurements?formula=C6H6"
+                    }, 
+                    {
+                        "formula": "C7H8", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10639/measurements?formula=C7H8"
+                    }, 
+                    {
+                        "formula": "NO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10639/measurements?formula=NO"
+                    }, 
+                    {
+                        "formula": "NO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10639/measurements?formula=NO2"
+                    }, 
+                    {
+                        "formula": "O3", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10639/measurements?formula=O3"
+                    }, 
+                    {
+                        "formula": "PM10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10639/measurements?formula=PM10"
+                    }
+                ], 
+                "type": "Traffic"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    5.124464, 
+                    52.105031
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "", 
+                "description": {
+                    "EN": "Utrecht-Kardinaal de Jongweg", 
+                    "NL": "Utrecht-Kardinaal de Jongweg"
+                }, 
+                "url": "", 
+                "organisation": "RIVM", 
+                "municipality": "Utrecht", 
+                "number": "NL10636", 
+                "locationname": "Utrecht-Kardinaal de Jongweg", 
+                "location": "Utrecht-Kardinaal de Jongweg", 
+                "components": [
+                    {
+                        "formula": "NO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10636/measurements?formula=NO"
+                    }, 
+                    {
+                        "formula": "NO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10636/measurements?formula=NO2"
+                    }, 
+                    {
+                        "formula": "PM10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10636/measurements?formula=PM10"
+                    }, 
+                    {
+                        "formula": "PM25", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10636/measurements?formula=PM25"
+                    }
+                ], 
+                "type": "Traffic"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.83819, 
+                    52.13795
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "", 
+                "description": {
+                    "EN": "Zegveld-Oude Meije", 
+                    "NL": "Zegveld-Oude Meije"
+                }, 
+                "url": "", 
+                "organisation": "RIVM", 
+                "municipality": "Woerden", 
+                "number": "NL10633", 
+                "locationname": "Zegveld-Oude Meije", 
+                "location": "Zegveld-Oude Meije", 
+                "components": [
+                    {
+                        "formula": "FN", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10633/measurements?formula=FN"
+                    }, 
+                    {
+                        "formula": "NH3", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10633/measurements?formula=NH3"
+                    }, 
+                    {
+                        "formula": "NO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10633/measurements?formula=NO"
+                    }, 
+                    {
+                        "formula": "NO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10633/measurements?formula=NO2"
+                    }, 
+                    {
+                        "formula": "O3", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10633/measurements?formula=O3"
+                    }, 
+                    {
+                        "formula": "PM10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10633/measurements?formula=PM10"
+                    }
+                ], 
+                "type": "Regional"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    5.59338, 
+                    52.423214
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "", 
+                "description": {
+                    "EN": "Biddinghuizen-Kuilweg", 
+                    "NL": "Biddinghuizen-Kuilweg"
+                }, 
+                "url": "", 
+                "organisation": "RIVM", 
+                "municipality": "Dronten", 
+                "number": "NL10617", 
+                "locationname": "Biddinghuizen-Kuilweg", 
+                "location": "Biddinghuizen-Kuilweg", 
+                "components": [
+                    {
+                        "formula": "NO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10617/measurements?formula=NO"
+                    }, 
+                    {
+                        "formula": "NO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10617/measurements?formula=NO2"
+                    }, 
+                    {
+                        "formula": "O3", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10617/measurements?formula=O3"
+                    }, 
+                    {
+                        "formula": "PM10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10617/measurements?formula=PM10"
+                    }
+                ], 
+                "type": "Regional"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.642319, 
+                    52.370508
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "", 
+                "description": {
+                    "EN": "Haarlem-Schipholweg", 
+                    "NL": "Haarlem-Schipholweg"
+                }, 
+                "url": "", 
+                "organisation": "RIVM", 
+                "municipality": "Haarlem", 
+                "number": "NL10550", 
+                "locationname": "Haarlem-Schipholweg", 
+                "location": "Haarlem-Schipholweg", 
+                "components": [
+                    {
+                        "formula": "NO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10550/measurements?formula=NO"
+                    }, 
+                    {
+                        "formula": "NO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10550/measurements?formula=NO2"
+                    }, 
+                    {
+                        "formula": "O3", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10550/measurements?formula=O3"
+                    }, 
+                    {
+                        "formula": "PM10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10550/measurements?formula=PM10"
+                    }
+                ], 
+                "type": "Traffic"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    5.048975, 
+                    52.80342
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "", 
+                "description": {
+                    "EN": "Wieringerwerf-Medemblikkerweg", 
+                    "NL": "Wieringerwerf-Medemblikkerweg"
+                }, 
+                "url": "", 
+                "organisation": "RIVM", 
+                "municipality": "Hollands Kroon", 
+                "number": "NL10538", 
+                "locationname": "Wieringerwerf-Medemblikkerweg", 
+                "location": "Wieringerwerf-Medemblikkerweg", 
+                "components": [
+                    {
+                        "formula": "NH3", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10538/measurements?formula=NH3"
+                    }, 
+                    {
+                        "formula": "NO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10538/measurements?formula=NO"
+                    }, 
+                    {
+                        "formula": "NO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10538/measurements?formula=NO2"
+                    }, 
+                    {
+                        "formula": "O3", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10538/measurements?formula=O3"
+                    }, 
+                    {
+                        "formula": "PM10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10538/measurements?formula=PM10"
+                    }, 
+                    {
+                        "formula": "PM25", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10538/measurements?formula=PM25"
+                    }
+                ], 
+                "type": "Regional"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.329431, 
+                    51.914883
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "2019", 
+                "description": {
+                    "EN": "Vlaardingen-Riouwlaan", 
+                    "NL": "Vlaardingen-Riouwlaan"
+                }, 
+                "url": "", 
+                "organisation": "RIVM", 
+                "municipality": "Vlaardingen", 
+                "number": "NL10449", 
+                "locationname": "Vlaardingen-Riouwlaan", 
+                "location": "Vlaardingen-Riouwlaan", 
+                "components": [
+                    {
+                        "formula": "NO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10449/measurements?formula=NO"
+                    }, 
+                    {
+                        "formula": "NO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10449/measurements?formula=NO2"
+                    }, 
+                    {
+                        "formula": "O3", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10449/measurements?formula=O3"
+                    }, 
+                    {
+                        "formula": "PM10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10449/measurements?formula=PM10"
+                    }, 
+                    {
+                        "formula": "PM25", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10449/measurements?formula=PM25"
+                    }
+                ], 
+                "type": "Traffic"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.359376, 
+                    52.039023
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "", 
+                "description": {
+                    "EN": "Den Haag-Bleriotlaan", 
+                    "NL": "Den Haag-Bleriotlaan"
+                }, 
+                "url": "", 
+                "organisation": "RIVM", 
+                "municipality": "'s-Gravenhage", 
+                "number": "NL10446", 
+                "locationname": "Den Haag-Bleriotlaan", 
+                "location": "Den Haag-Bleriotlaan", 
+                "components": [
+                    {
+                        "formula": "NO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10446/measurements?formula=NO"
+                    }, 
+                    {
+                        "formula": "NO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10446/measurements?formula=NO2"
+                    }, 
+                    {
+                        "formula": "O3", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10446/measurements?formula=O3"
+                    }, 
+                    {
+                        "formula": "PM10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10446/measurements?formula=PM10"
+                    }
+                ], 
+                "type": "Municipal"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.315872, 
+                    52.075071
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "", 
+                "description": {
+                    "EN": "Den Haag-Amsterdamse Veerkade", 
+                    "NL": "Den Haag-Amsterdamse Veerkade"
+                }, 
+                "url": "", 
+                "organisation": "RIVM", 
+                "municipality": "'s-Gravenhage", 
+                "number": "NL10445", 
+                "locationname": "Den Haag-Amsterdamse Veerkade", 
+                "location": "Den Haag-Amsterdamse Veerkade", 
+                "components": [
+                    {
+                        "formula": "NO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10445/measurements?formula=NO"
+                    }, 
+                    {
+                        "formula": "NO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10445/measurements?formula=NO2"
+                    }, 
+                    {
+                        "formula": "PM10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10445/measurements?formula=PM10"
+                    }
+                ], 
+                "type": "Traffic"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.510817, 
+                    52.296556
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "", 
+                "description": {
+                    "EN": "De Zilk-Vogelaarsdreef", 
+                    "NL": "De Zilk-Vogelaarsdreef"
+                }, 
+                "url": "", 
+                "organisation": "RIVM", 
+                "municipality": "Noordwijk", 
+                "number": "NL10444", 
+                "locationname": "De Zilk-Vogelaarsdreef", 
+                "location": "De Zilk-Vogelaarsdreef", 
+                "components": [
+                    {
+                        "formula": "FN", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10444/measurements?formula=FN"
+                    }, 
+                    {
+                        "formula": "NH3", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10444/measurements?formula=NH3"
+                    }, 
+                    {
+                        "formula": "NO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10444/measurements?formula=NO"
+                    }, 
+                    {
+                        "formula": "NO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10444/measurements?formula=NO2"
+                    }, 
+                    {
+                        "formula": "O3", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10444/measurements?formula=O3"
+                    }, 
+                    {
+                        "formula": "PM10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10444/measurements?formula=PM10"
+                    }, 
+                    {
+                        "formula": "PM25", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10444/measurements?formula=PM25"
+                    }, 
+                    {
+                        "formula": "SO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10444/measurements?formula=SO2"
+                    }
+                ], 
+                "type": "Regional"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.708239, 
+                    51.800658
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "", 
+                "description": {
+                    "EN": "Dordrecht-Bamendaweg", 
+                    "NL": "Dordrecht-Bamendaweg"
+                }, 
+                "url": "", 
+                "organisation": "RIVM", 
+                "municipality": "Dordrecht", 
+                "number": "NL10442", 
+                "locationname": "Dordrecht-Bamendaweg", 
+                "location": "Dordrecht-Bamendaweg", 
+                "components": [
+                    {
+                        "formula": "NO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10442/measurements?formula=NO"
+                    }, 
+                    {
+                        "formula": "NO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10442/measurements?formula=NO2"
+                    }, 
+                    {
+                        "formula": "O3", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10442/measurements?formula=O3"
+                    }, 
+                    {
+                        "formula": "PM10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10442/measurements?formula=PM10"
+                    }
+                ], 
+                "type": "Municipal"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.450529, 
+                    51.786579
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "", 
+                "description": {
+                    "EN": "Westmaas-Groeneweg", 
+                    "NL": "Westmaas-Groeneweg"
+                }, 
+                "url": "", 
+                "organisation": "RIVM", 
+                "municipality": "Hoeksche Waard", 
+                "number": "NL10437", 
+                "locationname": "Westmaas-Groeneweg", 
+                "location": "Westmaas-Groeneweg", 
+                "components": [
+                    {
+                        "formula": "NO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10437/measurements?formula=NO"
+                    }, 
+                    {
+                        "formula": "NO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10437/measurements?formula=NO2"
+                    }, 
+                    {
+                        "formula": "O3", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10437/measurements?formula=O3"
+                    }, 
+                    {
+                        "formula": "PM10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10437/measurements?formula=PM10"
+                    }
+                ], 
+                "type": "Regional"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.479923, 
+                    51.914233
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "", 
+                "description": {
+                    "EN": "Rotterdam-Schiedamsevest", 
+                    "NL": "Rotterdam-Schiedamsevest"
+                }, 
+                "url": "", 
+                "organisation": "RIVM", 
+                "municipality": "Rotterdam", 
+                "number": "NL10418", 
+                "locationname": "Rotterdam-Schiedamsevest", 
+                "location": "Rotterdam-Schiedamsevest", 
+                "components": [
+                    {
+                        "formula": "NO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10418/measurements?formula=NO"
+                    }, 
+                    {
+                        "formula": "NO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10418/measurements?formula=NO2"
+                    }, 
+                    {
+                        "formula": "O3", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10418/measurements?formula=O3"
+                    }, 
+                    {
+                        "formula": "PM10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10418/measurements?formula=PM10"
+                    }, 
+                    {
+                        "formula": "PM25", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10418/measurements?formula=PM25"
+                    }
+                ], 
+                "type": "Municipal"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.289185, 
+                    52.077148
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "", 
+                "description": {
+                    "EN": "Den Haag-Rebecquestraat", 
+                    "NL": "Den Haag-Rebecquestraat"
+                }, 
+                "url": "", 
+                "organisation": "RIVM", 
+                "municipality": "'s-Gravenhage", 
+                "number": "NL10404", 
+                "locationname": "Den Haag-Rebecquestraat", 
+                "location": "Den Haag-Rebecquestraat", 
+                "components": [
+                    {
+                        "formula": "NO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10404/measurements?formula=NO"
+                    }, 
+                    {
+                        "formula": "NO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10404/measurements?formula=NO2"
+                    }, 
+                    {
+                        "formula": "O3", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10404/measurements?formula=O3"
+                    }, 
+                    {
+                        "formula": "PM10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10404/measurements?formula=PM10"
+                    }, 
+                    {
+                        "formula": "PM25", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10404/measurements?formula=PM25"
+                    }
+                ], 
+                "type": "Municipal"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    3.749484, 
+                    51.294498
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "", 
+                "description": {
+                    "EN": "Philippine-Stelleweg", 
+                    "NL": "Philippine-Stelleweg"
+                }, 
+                "url": "", 
+                "organisation": "RIVM", 
+                "municipality": "Terneuzen", 
+                "number": "NL10318", 
+                "locationname": "Philippine-Stelleweg", 
+                "location": "Philippine-Stelleweg", 
+                "components": [
+                    {
+                        "formula": "NO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10318/measurements?formula=NO"
+                    }, 
+                    {
+                        "formula": "NO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10318/measurements?formula=NO2"
+                    }, 
+                    {
+                        "formula": "O3", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10318/measurements?formula=O3"
+                    }, 
+                    {
+                        "formula": "PM10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10318/measurements?formula=PM10"
+                    }, 
+                    {
+                        "formula": "SO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10318/measurements?formula=SO2"
+                    }
+                ], 
+                "type": "Regional"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    3.916623, 
+                    51.634706
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "", 
+                "description": {
+                    "EN": "Zierikzee-Lange Slikweg", 
+                    "NL": "Zierikzee-Lange Slikweg"
+                }, 
+                "url": "", 
+                "organisation": "RIVM", 
+                "municipality": "Schouwen-Duiveland", 
+                "number": "NL10301", 
+                "locationname": "Zierikzee-Lange Slikweg", 
+                "location": "Zierikzee-Lange Slikweg", 
+                "components": [
+                    {
+                        "formula": "NO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10301/measurements?formula=NO"
+                    }, 
+                    {
+                        "formula": "NO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10301/measurements?formula=NO2"
+                    }, 
+                    {
+                        "formula": "O3", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10301/measurements?formula=O3"
+                    }
+                ], 
+                "type": "Regional"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    5.393328, 
+                    51.407365
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "", 
+                "description": {
+                    "EN": "Veldhoven-Europalaan", 
+                    "NL": "Veldhoven-Europalaan"
+                }, 
+                "url": "", 
+                "organisation": "RIVM", 
+                "municipality": "Veldhoven", 
+                "number": "NL10247", 
+                "locationname": "Veldhoven-Europalaan", 
+                "location": "Veldhoven-Europalaan", 
+                "components": [
+                    {
+                        "formula": "FN", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10247/measurements?formula=FN"
+                    }, 
+                    {
+                        "formula": "NO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10247/measurements?formula=NO"
+                    }, 
+                    {
+                        "formula": "NO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10247/measurements?formula=NO2"
+                    }, 
+                    {
+                        "formula": "O3", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10247/measurements?formula=O3"
+                    }, 
+                    {
+                        "formula": "PM10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10247/measurements?formula=PM10"
+                    }, 
+                    {
+                        "formula": "PM25", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10247/measurements?formula=PM25"
+                    }
+                ], 
+                "type": "Municipal"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.515271, 
+                    51.653729
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "", 
+                "description": {
+                    "EN": "Fijnaart-Zwingelspaansedijk", 
+                    "NL": "Fijnaart-Zwingelspaansedijk"
+                }, 
+                "url": "", 
+                "organisation": "RIVM", 
+                "municipality": "Moerdijk", 
+                "number": "NL10246", 
+                "locationname": "Fijnaart-Zwingelspaansedijk", 
+                "location": "Fijnaart-Zwingelspaansedijk", 
+                "components": [
+                    {
+                        "formula": "NO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10246/measurements?formula=NO"
+                    }, 
+                    {
+                        "formula": "NO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10246/measurements?formula=NO2"
+                    }, 
+                    {
+                        "formula": "PM10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10246/measurements?formula=PM10"
+                    }
+                ], 
+                "type": "Regional"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.781016, 
+                    51.60308
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "", 
+                "description": {
+                    "EN": "Breda-Bastenakenstraat", 
+                    "NL": "Breda-Bastenakenstraat"
+                }, 
+                "url": "", 
+                "organisation": "RIVM", 
+                "municipality": "Breda", 
+                "number": "NL10241", 
+                "locationname": "Breda-Bastenakenstraat", 
+                "location": "Breda-Bastenakenstraat", 
+                "components": [
+                    {
+                        "formula": "NO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10241/measurements?formula=NO"
+                    }, 
+                    {
+                        "formula": "NO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10241/measurements?formula=NO2"
+                    }, 
+                    {
+                        "formula": "O3", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10241/measurements?formula=O3"
+                    }, 
+                    {
+                        "formula": "PM10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10241/measurements?formula=PM10"
+                    }, 
+                    {
+                        "formula": "PM25", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10241/measurements?formula=PM25"
+                    }
+                ], 
+                "type": "Municipal"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.824944, 
+                    51.59353
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "", 
+                "description": {
+                    "EN": "Breda-Tilburgseweg", 
+                    "NL": "Breda-Tilburgseweg"
+                }, 
+                "url": "", 
+                "organisation": "RIVM", 
+                "municipality": "Breda", 
+                "number": "NL10240", 
+                "locationname": "Breda-Tilburgseweg", 
+                "location": "Breda-Tilburgseweg", 
+                "components": [
+                    {
+                        "formula": "NO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10240/measurements?formula=NO"
+                    }, 
+                    {
+                        "formula": "NO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10240/measurements?formula=NO2"
+                    }, 
+                    {
+                        "formula": "PM10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10240/measurements?formula=PM10"
+                    }, 
+                    {
+                        "formula": "PM25", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10240/measurements?formula=PM25"
+                    }
+                ], 
+                "type": "Traffic"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    5.444833, 
+                    51.44416
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "", 
+                "description": {
+                    "EN": "Eindhoven-Noordbrabantlaan", 
+                    "NL": "Eindhoven-Noordbrabantlaan"
+                }, 
+                "url": "", 
+                "organisation": "RIVM", 
+                "municipality": "Eindhoven", 
+                "number": "NL10237", 
+                "locationname": "Eindhoven-Noordbrabantlaan", 
+                "location": "Eindhoven-Noordbrabantlaan", 
+                "components": [
+                    {
+                        "formula": "FN", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10237/measurements?formula=FN"
+                    }, 
+                    {
+                        "formula": "NO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10237/measurements?formula=NO"
+                    }, 
+                    {
+                        "formula": "NO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10237/measurements?formula=NO2"
+                    }, 
+                    {
+                        "formula": "PM10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10237/measurements?formula=PM10"
+                    }
+                ], 
+                "type": "Traffic"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    5.47235, 
+                    51.46866
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "", 
+                "description": {
+                    "EN": "Eindhoven-Genovevalaan", 
+                    "NL": "Eindhoven-Genovevalaan"
+                }, 
+                "url": "", 
+                "organisation": "RIVM", 
+                "municipality": "Eindhoven", 
+                "number": "NL10236", 
+                "locationname": "Eindhoven-Genovevalaan", 
+                "location": "Eindhoven-Genovevalaan", 
+                "components": [
+                    {
+                        "formula": "NO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10236/measurements?formula=NO"
+                    }, 
+                    {
+                        "formula": "NO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10236/measurements?formula=NO2"
+                    }, 
+                    {
+                        "formula": "O3", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10236/measurements?formula=O3"
+                    }, 
+                    {
+                        "formula": "PM10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10236/measurements?formula=PM10"
+                    }
+                ], 
+                "type": "Traffic"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.359835, 
+                    51.43444
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "", 
+                "description": {
+                    "EN": "Huijbergen-Vennekenstraat", 
+                    "NL": "Huijbergen-Vennekenstraat"
+                }, 
+                "url": "", 
+                "organisation": "RIVM", 
+                "municipality": "Woensdrecht", 
+                "number": "NL10235", 
+                "locationname": "Huijbergen-Vennekenstraat", 
+                "location": "Huijbergen-Vennekenstraat", 
+                "components": [
+                    {
+                        "formula": "NO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10235/measurements?formula=NO"
+                    }, 
+                    {
+                        "formula": "NO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10235/measurements?formula=NO2"
+                    }, 
+                    {
+                        "formula": "O3", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10235/measurements?formula=O3"
+                    }, 
+                    {
+                        "formula": "PM10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10235/measurements?formula=PM10"
+                    }
+                ], 
+                "type": "Regional"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    5.14845, 
+                    51.51844
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "", 
+                "description": {
+                    "EN": "Biest Houtakker-Biestsestraat", 
+                    "NL": "Biest Houtakker-Biestsestraat"
+                }, 
+                "url": "", 
+                "organisation": "RIVM", 
+                "municipality": "Hilvarenbeek", 
+                "number": "NL10230", 
+                "locationname": "Biest Houtakker-Biestsestraat", 
+                "location": "Biest Houtakker-Biestsestraat", 
+                "components": [
+                    {
+                        "formula": "NO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10230/measurements?formula=NO"
+                    }, 
+                    {
+                        "formula": "NO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10230/measurements?formula=NO2"
+                    }, 
+                    {
+                        "formula": "O3", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10230/measurements?formula=O3"
+                    }, 
+                    {
+                        "formula": "PM10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10230/measurements?formula=PM10"
+                    }, 
+                    {
+                        "formula": "PM25", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10230/measurements?formula=PM25"
+                    }
+                ], 
+                "type": "Regional"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    5.986853, 
+                    50.90032
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "", 
+                "description": {
+                    "EN": "Heerlen-Jamboreepad", 
+                    "NL": "Heerlen-Jamboreepad"
+                }, 
+                "url": "", 
+                "organisation": "RIVM", 
+                "municipality": "Heerlen", 
+                "number": "NL10138", 
+                "locationname": "Heerlen-Jamboreepad", 
+                "location": "Heerlen-Jamboreepad", 
+                "components": [
+                    {
+                        "formula": "FN", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10138/measurements?formula=FN"
+                    }, 
+                    {
+                        "formula": "NO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10138/measurements?formula=NO"
+                    }, 
+                    {
+                        "formula": "NO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10138/measurements?formula=NO2"
+                    }, 
+                    {
+                        "formula": "O3", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10138/measurements?formula=O3"
+                    }, 
+                    {
+                        "formula": "PM10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10138/measurements?formula=PM10"
+                    }, 
+                    {
+                        "formula": "PM25", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10138/measurements?formula=PM25"
+                    }
+                ], 
+                "type": "Municipal"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    5.970496, 
+                    50.88796
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "", 
+                "description": {
+                    "EN": "Heerlen-Looierstraat", 
+                    "NL": "Heerlen-Looierstraat"
+                }, 
+                "url": "", 
+                "organisation": "RIVM", 
+                "municipality": "Heerlen", 
+                "number": "NL10136", 
+                "locationname": "Heerlen-Looierstraat", 
+                "location": "Heerlen-Looierstraat", 
+                "components": [
+                    {
+                        "formula": "NO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10136/measurements?formula=NO"
+                    }, 
+                    {
+                        "formula": "NO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10136/measurements?formula=NO2"
+                    }, 
+                    {
+                        "formula": "PM10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10136/measurements?formula=PM10"
+                    }, 
+                    {
+                        "formula": "PM25", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10136/measurements?formula=PM25"
+                    }
+                ], 
+                "type": "Traffic"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    5.881748, 
+                    50.90228
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "", 
+                "description": {
+                    "EN": "Wijnandsrade-Opfergeltstraat", 
+                    "NL": "Wijnandsrade-Opfergeltstraat"
+                }, 
+                "url": "", 
+                "organisation": "RIVM", 
+                "municipality": "Beekdaelen", 
+                "number": "NL10133", 
+                "locationname": "Wijnandsrade-Opfergeltstraat", 
+                "location": "Wijnandsrade-Opfergeltstraat", 
+                "components": [
+                    {
+                        "formula": "NO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10133/measurements?formula=NO"
+                    }, 
+                    {
+                        "formula": "NO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10133/measurements?formula=NO2"
+                    }, 
+                    {
+                        "formula": "O3", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10133/measurements?formula=O3"
+                    }, 
+                    {
+                        "formula": "PM10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10133/measurements?formula=PM10"
+                    }, 
+                    {
+                        "formula": "SO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10133/measurements?formula=SO2"
+                    }
+                ], 
+                "type": "Regional"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    5.85307, 
+                    51.54052
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "", 
+                "description": {
+                    "EN": "Vredepeel-Vredeweg", 
+                    "NL": "Vredepeel-Vredeweg"
+                }, 
+                "url": "", 
+                "organisation": "RIVM", 
+                "municipality": "Venray", 
+                "number": "NL10131", 
+                "locationname": "Vredepeel-Vredeweg", 
+                "location": "Vredepeel-Vredeweg", 
+                "components": [
+                    {
+                        "formula": "FN", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10131/measurements?formula=FN"
+                    }, 
+                    {
+                        "formula": "NH3", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10131/measurements?formula=NH3"
+                    }, 
+                    {
+                        "formula": "NO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10131/measurements?formula=NO"
+                    }, 
+                    {
+                        "formula": "NO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10131/measurements?formula=NO2"
+                    }, 
+                    {
+                        "formula": "O3", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10131/measurements?formula=O3"
+                    }, 
+                    {
+                        "formula": "PM10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10131/measurements?formula=PM10"
+                    }, 
+                    {
+                        "formula": "PM25", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10131/measurements?formula=PM25"
+                    }
+                ], 
+                "type": "Regional"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.042399, 
+                    51.11919
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "", 
+                "description": {
+                    "EN": "Posterholt-Vlodropperweg", 
+                    "NL": "Posterholt-Vlodropperweg"
+                }, 
+                "url": "", 
+                "organisation": "RIVM", 
+                "municipality": "Roerdalen", 
+                "number": "NL10107", 
+                "locationname": "Posterholt-Vlodropperweg", 
+                "location": "Posterholt-Vlodropperweg", 
+                "components": [
+                    {
+                        "formula": "NO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10107/measurements?formula=NO"
+                    }, 
+                    {
+                        "formula": "NO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10107/measurements?formula=NO2"
+                    }, 
+                    {
+                        "formula": "O3", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL10107/measurements?formula=O3"
+                    }
+                ], 
+                "type": "Regional"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    3.83859, 
+                    51.27938
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "2020", 
+                "description": {
+                    "EN": "Sluiskil", 
+                    "NL": "Sluiskil"
+                }, 
+                "url": null, 
+                "organisation": "DCMR (Rijnmond)", 
+                "municipality": "Terneuzen", 
+                "number": "NL01913", 
+                "locationname": "Sluiskil-Stroodorpestraat", 
+                "location": "Sluiskil-Stroodorpestraat", 
+                "components": [
+                    {
+                        "formula": "NO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL01913/measurements?formula=NO2"
+                    }, 
+                    {
+                        "formula": "NO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL01913/measurements?formula=NO"
+                    }, 
+                    {
+                        "formula": "PM10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL01913/measurements?formula=PM10"
+                    }, 
+                    {
+                        "formula": "PM25", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL01913/measurements?formula=PM25"
+                    }
+                ], 
+                "type": "Industrial"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.563812, 
+                    51.861729
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "2018", 
+                "description": {
+                    "EN": "Ridderkerk-Voorweg", 
+                    "NL": "Ridderkerk-Voorweg"
+                }, 
+                "url": "", 
+                "organisation": "DCMR (Rijnmond)", 
+                "municipality": "Ridderkerk", 
+                "number": "NL01912", 
+                "locationname": "Ridderkerk-Voorweg", 
+                "location": "Ridderkerk-Voorweg", 
+                "components": [
+                    {
+                        "formula": "PM25", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL01912/measurements?formula=PM25"
+                    }, 
+                    {
+                        "formula": "NO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL01912/measurements?formula=NO2"
+                    }, 
+                    {
+                        "formula": "PM10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL01912/measurements?formula=PM10"
+                    }
+                ], 
+                "type": "Regional"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.121944, 
+                    51.977802999084986
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "", 
+                "description": {
+                    "EN": "Rotterdam Hoek van Holland", 
+                    "NL": "Rotterdam Hoek van Holland"
+                }, 
+                "url": "", 
+                "organisation": "DCMR (Rijnmond)", 
+                "municipality": "Rotterdam", 
+                "number": "NL01496", 
+                "locationname": "Rotterdam HvHolland", 
+                "location": "Rotterdam HvHolland", 
+                "components": [
+                    {
+                        "formula": "C6H6", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL01496/measurements?formula=C6H6"
+                    }, 
+                    {
+                        "formula": "C7H8", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL01496/measurements?formula=C7H8"
+                    }, 
+                    {
+                        "formula": "FN", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL01496/measurements?formula=FN"
+                    }, 
+                    {
+                        "formula": "NO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL01496/measurements?formula=NO"
+                    }, 
+                    {
+                        "formula": "NO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL01496/measurements?formula=NO2"
+                    }, 
+                    {
+                        "formula": "O3", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL01496/measurements?formula=O3"
+                    }, 
+                    {
+                        "formula": "PM10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL01496/measurements?formula=PM10"
+                    }, 
+                    {
+                        "formula": "PM25", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL01496/measurements?formula=PM25"
+                    }, 
+                    {
+                        "formula": "SO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL01496/measurements?formula=SO2"
+                    }
+                ], 
+                "type": "Other"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.22799, 
+                    51.93207
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "", 
+                "description": {
+                    "EN": "Maassluis-Kwartellaan", 
+                    "NL": "Maassluis-Kwartellaan"
+                }, 
+                "url": "", 
+                "organisation": "DCMR (Rijnmond)", 
+                "municipality": "Maassluis", 
+                "number": "NL01495", 
+                "locationname": "Maassluis-Kwartellaan", 
+                "location": "Maassluis-Kwartellaan", 
+                "components": [
+                    {
+                        "formula": "C6H6", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL01495/measurements?formula=C6H6"
+                    }, 
+                    {
+                        "formula": "C7H8", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL01495/measurements?formula=C7H8"
+                    }, 
+                    {
+                        "formula": "NO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL01495/measurements?formula=NO"
+                    }, 
+                    {
+                        "formula": "NO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL01495/measurements?formula=NO2"
+                    }, 
+                    {
+                        "formula": "O3", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL01495/measurements?formula=O3"
+                    }, 
+                    {
+                        "formula": "PM10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL01495/measurements?formula=PM10"
+                    }, 
+                    {
+                        "formula": "PM25", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL01495/measurements?formula=PM25"
+                    }, 
+                    {
+                        "formula": "SO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL01495/measurements?formula=SO2"
+                    }
+                ], 
+                "type": "Municipal"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.40139, 
+                    51.92139
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "", 
+                "description": {
+                    "EN": "Schiedam-A.Arienstraat", 
+                    "NL": "Schiedam-A.Arienstraat"
+                }, 
+                "url": "", 
+                "organisation": "DCMR (Rijnmond)", 
+                "municipality": "Schiedam", 
+                "number": "NL01494", 
+                "locationname": "Schiedam-A.Arienstraat", 
+                "location": "Schiedam-A.Arienstraat", 
+                "components": [
+                    {
+                        "formula": "C6H6", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL01494/measurements?formula=C6H6"
+                    }, 
+                    {
+                        "formula": "C7H8", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL01494/measurements?formula=C7H8"
+                    }, 
+                    {
+                        "formula": "FN", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL01494/measurements?formula=FN"
+                    }, 
+                    {
+                        "formula": "NO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL01494/measurements?formula=NO"
+                    }, 
+                    {
+                        "formula": "NO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL01494/measurements?formula=NO2"
+                    }, 
+                    {
+                        "formula": "O3", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL01494/measurements?formula=O3"
+                    }, 
+                    {
+                        "formula": "PM10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL01494/measurements?formula=PM10"
+                    }, 
+                    {
+                        "formula": "PM25", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL01494/measurements?formula=PM25"
+                    }
+                ], 
+                "type": "Municipal"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.46136, 
+                    51.92711
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "", 
+                "description": {
+                    "EN": "Rotterdam-Statenweg", 
+                    "NL": "Rotterdam-Statenweg"
+                }, 
+                "url": "", 
+                "organisation": "DCMR (Rijnmond)", 
+                "municipality": "Rotterdam", 
+                "number": "NL01493", 
+                "locationname": "Rotterdam-Statenweg", 
+                "location": "Rotterdam-Statenweg", 
+                "components": [
+                    {
+                        "formula": "FN", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL01493/measurements?formula=FN"
+                    }, 
+                    {
+                        "formula": "NO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL01493/measurements?formula=NO"
+                    }, 
+                    {
+                        "formula": "NO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL01493/measurements?formula=NO2"
+                    }, 
+                    {
+                        "formula": "O3", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL01493/measurements?formula=O3"
+                    }, 
+                    {
+                        "formula": "PM10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL01493/measurements?formula=PM10"
+                    }, 
+                    {
+                        "formula": "PM25", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL01493/measurements?formula=PM25"
+                    }
+                ], 
+                "type": "Traffic"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.47919, 
+                    51.91226
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "", 
+                "description": {
+                    "EN": "Rotterdam-Vasteland", 
+                    "NL": "Rotterdam-Vasteland"
+                }, 
+                "url": "", 
+                "organisation": "DCMR (Rijnmond)", 
+                "municipality": "Rotterdam", 
+                "number": "NL01492", 
+                "locationname": "Rotterdam-Vasteland", 
+                "location": "Rotterdam-Vasteland", 
+                "components": [
+                    {
+                        "formula": "FN", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL01492/measurements?formula=FN"
+                    }
+                ], 
+                "type": "Municipal"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.4307, 
+                    51.93858
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "", 
+                "description": {
+                    "EN": "Overschie-A13", 
+                    "NL": "Overschie-A13"
+                }, 
+                "url": "", 
+                "organisation": "DCMR (Rijnmond)", 
+                "municipality": "Rotterdam", 
+                "number": "NL01491", 
+                "locationname": "Overschie-A13", 
+                "location": "Overschie-A13", 
+                "components": [
+                    {
+                        "formula": "FN", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL01491/measurements?formula=FN"
+                    }, 
+                    {
+                        "formula": "NO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL01491/measurements?formula=NO"
+                    }, 
+                    {
+                        "formula": "NO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL01491/measurements?formula=NO2"
+                    }, 
+                    {
+                        "formula": "PM10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL01491/measurements?formula=PM10"
+                    }, 
+                    {
+                        "formula": "PM25", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL01491/measurements?formula=PM25"
+                    }
+                ], 
+                "type": "Traffic"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.58007, 
+                    51.86942
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "", 
+                "description": {
+                    "EN": "Ridderkerk-A16", 
+                    "NL": "Ridderkerk-A16"
+                }, 
+                "url": "", 
+                "organisation": "DCMR (Rijnmond)", 
+                "municipality": "Ridderkerk", 
+                "number": "NL01489", 
+                "locationname": "Ridderkerk-A16", 
+                "location": "Ridderkerk-A16", 
+                "components": [
+                    {
+                        "formula": "NO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL01489/measurements?formula=NO"
+                    }, 
+                    {
+                        "formula": "NO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL01489/measurements?formula=NO2"
+                    }, 
+                    {
+                        "formula": "O3", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL01489/measurements?formula=O3"
+                    }, 
+                    {
+                        "formula": "PM10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL01489/measurements?formula=PM10"
+                    }, 
+                    {
+                        "formula": "PM25", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL01489/measurements?formula=PM25"
+                    }
+                ], 
+                "type": "Traffic"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.48759, 
+                    51.89361
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "", 
+                "description": {
+                    "EN": "Rotterdam-Zwartewaalstraat", 
+                    "NL": "Rotterdam-Zwartewaalstraat"
+                }, 
+                "url": "", 
+                "organisation": "DCMR (Rijnmond)", 
+                "municipality": "Rotterdam", 
+                "number": "NL01488", 
+                "locationname": "Rotterdam-Zwartewaalstraat", 
+                "location": "Rotterdam-Zwartewaalstraat", 
+                "components": [
+                    {
+                        "formula": "FN", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL01488/measurements?formula=FN"
+                    }, 
+                    {
+                        "formula": "NO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL01488/measurements?formula=NO"
+                    }, 
+                    {
+                        "formula": "NO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL01488/measurements?formula=NO2"
+                    }, 
+                    {
+                        "formula": "PM10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL01488/measurements?formula=PM10"
+                    }, 
+                    {
+                        "formula": "PM25", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL01488/measurements?formula=PM25"
+                    }
+                ], 
+                "type": "Municipal"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.48066, 
+                    51.89113
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "", 
+                "description": {
+                    "EN": "Rotterdam-Pleinweg", 
+                    "NL": "Rotterdam-Pleinweg"
+                }, 
+                "url": "", 
+                "organisation": "DCMR (Rijnmond)", 
+                "municipality": "Rotterdam", 
+                "number": "NL01487", 
+                "locationname": "Rotterdam-Pleinweg", 
+                "location": "Rotterdam-Pleinweg", 
+                "components": [
+                    {
+                        "formula": "FN", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL01487/measurements?formula=FN"
+                    }, 
+                    {
+                        "formula": "NO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL01487/measurements?formula=NO"
+                    }, 
+                    {
+                        "formula": "NO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL01487/measurements?formula=NO2"
+                    }, 
+                    {
+                        "formula": "PM10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL01487/measurements?formula=PM10"
+                    }, 
+                    {
+                        "formula": "PM25", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL01487/measurements?formula=PM25"
+                    }
+                ], 
+                "type": "Traffic"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.35524, 
+                    51.86742
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "", 
+                "description": {
+                    "EN": "Rotterdam-Hoogvliet", 
+                    "NL": "Rotterdam-Hoogvliet"
+                }, 
+                "url": "", 
+                "organisation": "DCMR (Rijnmond)", 
+                "municipality": "Rotterdam", 
+                "number": "NL01485", 
+                "locationname": "Rotterdam-Hoogvliet", 
+                "location": "Rotterdam-Hoogvliet", 
+                "components": [
+                    {
+                        "formula": "C6H6", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL01485/measurements?formula=C6H6"
+                    }, 
+                    {
+                        "formula": "C7H8", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL01485/measurements?formula=C7H8"
+                    }, 
+                    {
+                        "formula": "NO", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL01485/measurements?formula=NO"
+                    }, 
+                    {
+                        "formula": "NO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL01485/measurements?formula=NO2"
+                    }, 
+                    {
+                        "formula": "O3", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL01485/measurements?formula=O3"
+                    }, 
+                    {
+                        "formula": "PM10", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL01485/measurements?formula=PM10"
+                    }, 
+                    {
+                        "formula": "SO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL01485/measurements?formula=SO2"
+                    }, 
+                    {
+                        "formula": "PM25", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL01485/measurements?formula=PM25"
+                    }
+                ], 
+                "type": "Municipal"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.3125, 
+                    51.889
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "province": null, 
+                "year_start": "", 
+                "description": {
+                    "EN": "Rotterdam-Geulhaven", 
+                    "NL": "Rotterdam-Geulhaven"
+                }, 
+                "url": "", 
+                "organisation": "DCMR (Rijnmond)", 
+                "municipality": "Rotterdam", 
+                "number": "NL01484", 
+                "locationname": "Rotterdam-Geulhaven", 
+                "location": "Rotterdam-Geulhaven", 
+                "components": [
+                    {
+                        "formula": "C6H6", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL01484/measurements?formula=C6H6"
+                    }, 
+                    {
+                        "formula": "C7H8", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL01484/measurements?formula=C7H8"
+                    }, 
+                    {
+                        "formula": "SO2", 
+                        "measurements": "https://api.luchtmeetnet.nl/open_api/stations/NL01484/measurements?formula=SO2"
+                    }
+                ], 
+                "type": "Industrial"
+            }
+        }
+    ]
+}
