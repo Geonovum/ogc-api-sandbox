@@ -37,10 +37,10 @@
     - name: "pygeoapi"
       shell: "cd {{ services_home }}/pygeoapi && ./deploy.sh && docker ps"
       tags: pygeoapi
-      
+
     - name: "pygeoapi_SU"
       shell: "cd {{ services_home }}/pygeoapi_SU && ./deploy.sh && docker ps"
-      tags: pygeoapi_SU      
+      tags: pygeoapi_SU
 
     - name: "pycsw"
       shell: "cd {{ services_home }}/pycsw && ./deploy.sh && docker ps"
@@ -72,8 +72,8 @@
 
     - name: "admin"
       shell: "cd {{ services_home }}/admin && ./deploy.sh && docker ps"
-      tags: admin      
-      
+      tags: admin
+
     - name: "bgt"
       shell: "cd {{ services_home }}/bgt && ./deploy.sh && docker ps"
       tags: bgt
