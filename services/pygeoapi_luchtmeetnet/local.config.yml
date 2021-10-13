@@ -80,7 +80,7 @@ resources:
                 end: null  # or empty
         providers:
             - type: feature
-              name: OGR
+              name: GeoJSON
               data: data/stations.json
               id_field: number
               title_field: number
