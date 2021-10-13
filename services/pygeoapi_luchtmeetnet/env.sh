@@ -9,6 +9,6 @@ export SERVICE_NAME="pygeoapi_luchtmeetnet"
 export SERVICE_PATH="/${SERVICE_NAME}"
 
 # Can be usually left as isunless you want to run specific build and/or version.
-export DOCKER_IMAGE_NAME="geopython/pygeoapi_luchtmeetnet"
+export DOCKER_IMAGE_NAME="geopython/pygeoapi"
 export DOCKER_IMAGE_VERSION="latest"
 export DOCKER_IMAGE="${DOCKER_IMAGE_NAME}:${DOCKER_IMAGE_VERSION}"
