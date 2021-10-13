@@ -82,5 +82,4 @@ resources:
             - type: feature
               name: GeoJSON
               data: data/stations.json
-              id_field: number
-              title_field: number
+              id_field: id
