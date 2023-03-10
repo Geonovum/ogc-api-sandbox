@@ -17,6 +17,7 @@ Open Source products running in this instance. Links to documentation and HOWTOs
 | Endpoint | Author | Docs | HOWTO
 | --- | --- | --- | --- 
 | [/pygeoapi](/pygeoapi) | [GeoPython Community](https://geopython.github.io/) | [docs](https://docs.pygeoapi.io/en/latest/) | [HOWTO](https://apitestdocs.geonovum.nl/howto/howto_pygeoapi/)  
+| [/pygeoapi_SU](/pygeoapi_SU) | [GeoPython Community](https://geopython.github.io/) | [docs](https://docs.pygeoapi.io/en/latest/) | [HOWTO](https://apitestdocs.geonovum.nl/howto/howto_pygeoapi/)  
 | [/ldproxy](/ldproxy) | Interactive Instruments | [docs](https://interactive-instruments.github.io/ldproxy/) | [HOWTO](https://apitestdocs.geonovum.nl/howto/howto_ldproxy.md)  
 | [/geoserver](/geoserver/ogc/features) | GeoServer Community | [docs](https://docs.geoserver.org/latest/en/user/community/ogc-api/index.html) | [HOWTO](https://apitestdocs.geonovum.nl/howto/howto_geoserver/)  
 | [/qgis*](/qgis/wfs3) | QGIS Community | [docs](https://www.qgis.org/) | [HOWTO](https://apitestdocs.geonovum.nl/howto/howto_qgis/)  
@@ -25,6 +26,7 @@ Open Source products running in this instance. Links to documentation and HOWTOs
 
 
 * *"QGIS" is the QGIS Server Application.*
+* [/pygeoapi_SU](/pygeoapi_SU) is the demo service for pygeoapi with INSPIRE harmonized Statistical Units added to the Sandbox
 
 ## Storage Services
 
@@ -45,7 +47,7 @@ These are services for administration and maintenance.
 
 # Links
 
-* [Project GitHub Repo](https://github.com/Geonovum/ogc-api-testbed)
+* [Project GitHub Repo](https://github.com/Geonovum/ogc-api-sandbox)
 * [apitestdocs.geonovum.nl](https://apitestdocs.geonovum.nl) - all documentation
 
 
