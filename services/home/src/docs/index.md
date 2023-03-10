@@ -18,6 +18,8 @@ Open Source products running in this instance. Links to documentation and HOWTOs
 | --- | --- | --- | --- 
 | [/pygeoapi](/pygeoapi) | [GeoPython Community](https://geopython.github.io/) | [docs](https://docs.pygeoapi.io/en/latest/) | [HOWTO](https://apitestdocs.geonovum.nl/howto/howto_pygeoapi/)  
 | [/pygeoapi_SU](/pygeoapi_SU) | [GeoPython Community](https://geopython.github.io/) | [docs](https://docs.pygeoapi.io/en/latest/) | [HOWTO](https://apitestdocs.geonovum.nl/howto/howto_pygeoapi/)  
+| [pygeoapi: /bgt](/bgt) | [GeoPython Community](https://geopython.github.io/) | [docs](https://docs.pygeoapi.io/en/latest/) | [HOWTO](https://apitestdocs.geonovum.nl/howto/howto_pygeoapi/)  
+| [pygeoapi_luchtmeetnet](/pygeoapi_luchtmeetnet) | [GeoPython Community](https://geopython.github.io/) | [docs](https://docs.pygeoapi.io/en/latest/) | [HOWTO](https://apitestdocs.geonovum.nl/howto/howto_pygeoapi/)  
 | [/ldproxy](/ldproxy) | Interactive Instruments | [docs](https://interactive-instruments.github.io/ldproxy/) | [HOWTO](https://apitestdocs.geonovum.nl/howto/howto_ldproxy.md)  
 | [/geoserver](/geoserver/ogc/features) | GeoServer Community | [docs](https://docs.geoserver.org/latest/en/user/community/ogc-api/index.html) | [HOWTO](https://apitestdocs.geonovum.nl/howto/howto_geoserver/)  
 | [/qgis*](/qgis/wfs3) | QGIS Community | [docs](https://www.qgis.org/) | [HOWTO](https://apitestdocs.geonovum.nl/howto/howto_qgis/)  
