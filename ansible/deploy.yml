@@ -46,9 +46,9 @@
       shell: "cd {{ services_home }}/pygeoapi_luchtmeetnet && ./deploy.sh && docker ps"
       tags: pygeoapi_luchtmeetnet
 
-    - name: "bestuurlijkegebieden_demo"
-      shell: "cd {{ services_home }}/bestuurlijkegebieden_demo && ./deploy.sh && docker ps"
-      tags: BestuurlijkeGebiedenDemo
+    - name: "pygeoapi_bestuurlijkegebieden"
+      shell: "cd {{ services_home }}/pygeoapi_bestuurlijkegebieden && ./deploy.sh && docker ps"
+      tags: pygeoapi_bestuurlijkegebieden
 
     - name: "pycsw"
       shell: "cd {{ services_home }}/pycsw && ./deploy.sh && docker ps"
