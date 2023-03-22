@@ -1,0 +1,56 @@
+server:
+    bind:
+        host: 0.0.0.0
+        port: 80
+    url: https://apisandbox.geonovum.nl/bestuurlijkegebieden_demo
+    mimetype: application/json; charset=UTF-8
+    encoding: utf-8
+    language: en-US
+    cors: true
+    pretty_print: true
+    limit: 10
+    map:
+        url: https://service.pdok.nl/brt/achtergrondkaart/wmts/v2_0/standaard/EPSG:3857/{z}/{x}/{y}.png
+        attribution: 'Map data &copy; <a href="https://pdok.nl">PDOK Kadaster</a>'
+#        url: https://maps.wikimedia.org/osm-intl/{z}/{x}/{y}.png
+#        attribution: '<a href="https://wikimediafoundation.org/wiki/Maps_Terms_of_Use">Wikimedia maps</a> | Map data &copy; <a href="https://openstreetmap.org/copyright">OpenStreetMap contributors</a>'
+    ogc_schemas_location: /schemas.opengis.net
+
+logging:
+    level: ERROR
+    #logfile: /tmp/master.log
+
+metadata:
+    identification:
+        title: Bestuurlijke Gebieden Demo
+        description: Voorbeeld dataset Bestuurlijke Gebieden
+        keywords:
+            - geospatial
+            - demonstration            -
+            - Luchtmeetnet
+            - air quality
+            - measurement stations
+            - api
+        keywords_type: theme
+        terms_of_service: https://creativecommons.org/licenses/by/4.0/
+        url: https://api-docs.bestuurlijkegebieden.nl/
+    license:
+        name: CC-BY 4.0 license
+        url: http://creativecommons.org/licenses/by/4.0/
+    provider:
+        name: Geonovum API Testbed
+        url: https://www.geonovum.nl
+    contact:
+        name: Geonovum API Testbed
+        position: Helpdesk
+        address: Barchman Wuytierslaan 10
+        city: Amersfoort
+        stateorprovince: Utrecht
+        postalcode: 3818 LH
+        country: The Netherlands
+        # phone: +31 633 4217456
+        # fax: +31 633 4217799
+        email: info@geonovum.nl
+        url: https://www.geonovum.nl
+        role: pointOfContact
+
