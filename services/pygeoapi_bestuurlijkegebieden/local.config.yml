@@ -54,3 +54,26 @@ metadata:
         url: https://www.geonovum.nl
         role: pointOfContact
 
+resources:
+    bestuurlijke_gebieden:
+        type: collection
+        title: Bestuurlijke gebieden in Nederland
+        description: Een voorbeeld service met een aantal nederlandse bestuurlijke gebieden. Deze collectie is enkel bedoeld voor demonstraties in het kader van DiSGeo.
+        keywords:
+            - Bestuurlijke gebieden
+            - Gemeentegebieden
+            - Provinciegebieden
+        crs:
+            - EPSG:28992
+        extents:
+            spatial:
+                bbox: [3.054199,50.583524,7.800293,53.773194]
+                crs: http://www.opengis.net/def/crs/OGC/1.3/EPSG:28992
+            temporal:
+                begin:
+                end: null  # or empty
+        providers:
+            - type: feature
+              name: GeoJSON
+              data: ProvincieGemeenteGebied.json
+              id_field: identificatie
