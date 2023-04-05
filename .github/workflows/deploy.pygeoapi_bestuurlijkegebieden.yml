@@ -28,5 +28,5 @@ jobs:
         inventory: ${{secrets.ANSIBLE_INVENTORY_PROD}}
         vault_password: ${{secrets.ANSIBLE_VAULT_PASSWORD}}
         options: |
-          --tags pygeoapi
+          --tags pygeoapi_bestuurlijkegebieden
           --verbose
