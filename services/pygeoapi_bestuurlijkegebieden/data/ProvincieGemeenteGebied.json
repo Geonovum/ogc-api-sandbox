@@ -1,0 +1,82 @@
+{
+  "type": "FeatureCollection",
+  "features": [ {
+    "type": "Feature",
+    "properties": {
+      "3df_id": "B0000.6b58efd48bb641fb9ddaac5a6f4b95bd",
+      "3df_class": "Building",
+      "baseheight": 53.26,
+      "roofheight": 7.74,
+      "documentdatum": "19951231",
+      "objectid": "8679737",
+      "aanduidingrecordinactief": "0",
+      "aanduidingrecordcorrectie": "0",
+      "inonderzoek": "0",
+      "officieel": "",
+      "bagpandid": "1883100000000764",
+      "documentnummer": "7082",
+      "pandstatus": "Pand in gebruik",
+      "bouwjaar": "1992",
+      "begindatumtijdvakgeldigheid": "19951231",
+      "einddatumtijdvakgeldigheid": "21991231",
+      "shape_length": "47.5916812710665",
+      "shape_area": "99.1505934931948"
+    },
+  "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            5.962619,
+            52.2117585
+          ],
+          [
+            5.9625107,
+            52.211849
+          ],
+          [
+            5.9623266,
+            52.2120018
+          ],
+          [
+            5.9622966,
+            52.2120262
+          ],
+          [
+            5.9621242,
+            52.2119482
+          ],
+          [
+            5.962341,
+            52.2116086
+          ],
+          [
+            5.9624274,
+            52.2116293
+          ],
+          [
+            5.9624014,
+            52.2116703
+          ],
+          [
+            5.9625066,
+            52.2116959
+          ],
+          [
+            5.9625415,
+            52.211667
+          ],
+          [
+            5.9626627,
+            52.2117222
+          ],
+          [
+            5.962619,
+            52.2117585
+          ]
+        ]
+      ]
+    }
+  }
+]
+}
