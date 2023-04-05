@@ -55,7 +55,7 @@ metadata:
         role: pointOfContact
 
 resources:
-    bestuurlijke_gebieden:
+    ProvincieGemeenteGebied:
         type: collection
         title: Bestuurlijke gebieden in Nederland
         description: Een voorbeeld service met een aantal nederlandse bestuurlijke gebieden. Deze collectie is enkel bedoeld voor demonstraties in het kader van DiSGeo.
