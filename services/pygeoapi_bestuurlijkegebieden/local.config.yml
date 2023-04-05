@@ -76,4 +76,4 @@ resources:
             - type: feature
               name: GeoJSON
               data: data/ProvincieGemeenteGebied.json
-              id_field: identificatie
+              id_field: objectid
