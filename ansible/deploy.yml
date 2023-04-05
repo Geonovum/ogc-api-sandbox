@@ -50,6 +50,10 @@
       shell: "cd {{ services_home }}/pygeoapi_bestuurlijkegebieden && ./deploy.sh && docker ps"
       tags: pygeoapi_bestuurlijkegebieden
 
+    - name: "pygeoapi_jsonfg"
+      shell: "cd {{ services_home }}/pygeoapi_jsonfg && ./deploy.sh && docker ps"
+      tags: pygeoapi_jsonfg
+
     - name: "pycsw"
       shell: "cd {{ services_home }}/pycsw && ./deploy.sh && docker ps"
       tags: pycsw
