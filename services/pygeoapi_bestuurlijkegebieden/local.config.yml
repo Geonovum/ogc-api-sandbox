@@ -64,16 +64,22 @@ resources:
             - Gemeentegebieden
             - Provinciegebieden
         crs:
-            - EPSG:28992
+            - EPSG:4328
+        links:
+            - type: text/html
+              rel: describedby
+              title: Voorbeeld documentatie bestuurlijke gebieden
+              href: https://api-docs.demo.nl/#bg
+              hreflang: nl            
         extents:
             spatial:
                 bbox: [3.054199,50.583524,7.800293,53.773194]
-                crs: http://www.opengis.net/def/crs/OGC/1.3/EPSG:28992
+                crs: http://www.opengis.net/def/crs/OGC/1.3/EPSG:4328
             temporal:
                 begin:
                 end: null  # or empty
         providers:
             - type: feature
               name: GeoJSON
-              data: ProvincieGemeenteGebied.json
+              data: data/ProvincieGemeenteGebied.json
               id_field: objectid
