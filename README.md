@@ -10,6 +10,9 @@
 [![docs Deploy](https://github.com/Geonovum/ogc-api-sandbox/actions/workflows/deploy.docs.yml/badge.svg)](https://github.com/Geonovum/ogc-api-sandbox/actions/workflows/deploy.docs.yml)
 [![Gitter](https://img.shields.io/gitter/room/Geonovum/ogc-api-testbed.svg?style=flat-square)](https://gitter.im/Geonovum/ogc-api-testbed)
 
+# Archived
+The code in this repository is no longer being maintained and the corresponding server has been taken offline therfor this repository is set to archived status.
+
 # OGC API Testbed - SANDBOX
 Bootstrap and continuous integration/deployment (CI/CD) for OGC API web-service components.
 See the [website apitestdocs.geonovum.nl](https://apitestdocs.geonovum.nl) for docmentation and details.
